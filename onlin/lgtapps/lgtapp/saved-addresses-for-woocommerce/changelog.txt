@@ -1,0 +1,144 @@
+*** Saved Addresses For WooCommerce Changelog ***
+
+2021-11-11 - version 2.5.2
+* New: WooCommerce 5.6.1, 5.7.1, 5.8.0, 5.9.0 compatible
+* New: Tested up to WordPress 5.8.2
+
+2021-07-23 - version 2.5.1
+* Fix: Edit & Delete on an address not working on the checkout page in some cases
+* Fix: jQuery.fn.change() event shorthand is deprecated
+* Update: POT file
+
+2021-07-21 - version 2.5.0
+* New: WooCommerce 5.5.1 compatible
+* New: UI & UX for address display on the checkout page (Improve checkout conversion)
+* Update: Set default address if it is user's first order
+* Update: Bill to a new address, Ship to a new address, Edit, Delete as links on the checkout page
+* Update: Saved addresses templates
+* Update: CSS for Add address if there is no address in user's My Account
+* Update: POT file
+
+2021-06-24 - version 2.4.0
+* New: WooCommerce 5.4.1 compatible
+* New: Welcome page for getting started
+* Fix: Address box jumping on selection in some themes on checkout page
+* Update: Allow overriding plugin templates
+* Update: Plugin action links
+* Update: Code improvements
+* Update: POT file
+
+2021-05-15 - version 2.3.1
+* New: WooCommerce 5.3.0 compatible
+* Fix: PHP Notice: Undefined index: value when adding a new billing address from My Account > Addresses
+* Fix: Site link on plugins page
+* Update: POT file
+
+2021-04-30 - version 2.3.0
+* New: WooCommerce 5.0.0, 5.1.0, 5.2.2 compatible
+* New: Tested up to WordPress 5.7.1
+* New: Add an address from user's My Account > Addresses
+* Update: Title of My Account > Addresses based on action
+* Update: Code improvements
+* Update: POT file
+
+2021-02-05 - version 2.2.1
+* New: WooCommerce 4.9.2 compatible
+* Fix: Same shipping address saved multiple times if 'Ship to a different address?' is unchecked on checkout
+* Fix: 'Add' translation not working for Shipping address under My Account
+* Fix: Missing translations from My Account when updating default address
+* Update: POT file
+
+2020-12-11 - version 2.2.0
+* New: WooCommerce 4.7.1, 4.8.0 compatible
+* New: WordPress 5.6.0 compatible
+* New: Provision to edit an address from checkout
+* Fix: jQuery 'ready' event is deprecated
+* Update: Address display on checkout
+* Update: Do not show Bill/Ship to this address button if address is to be used in checkout
+* Update: Scroll to billing/shipping form when adding/editing address on checkout
+* Update: Remove 'Ship to billing address' from checkout
+* Update: Address actions on My Account
+* Update: POT file
+
+2020-10-30 - version 2.1.0
+* New: WooCommerce 4.4.1, 4.5.2, 4.6.1 compatible
+* Fix: Default address not used when placing a new order
+* Fix: Delete icon not showing on hover of an address on checkout
+* Fix: Shipping address saved multiple times from checkout in some cases
+* Fix: Incorrect address when editing an address from My Account
+* Fix: Mandatory shipping address for pre-created account if shipping is set to billing
+* Update: Use WooCommerce setting of Shipping destination to show 'Shipping Details' on checkout
+* Update: Do not enqueue JS on order complete page
+* Update: Remove support for WooCommerce 3.5 and WooCommerce 3.6
+* Update: POT file
+
+2020-07-31 - version 2.0.2
+* New: WooCommerce 4.1.1, 4.2.2, 4.3.1 compatible
+* Fix: Missing translation for 'Bill to a new address' & 'Ship to a new address' buttons on checkout page
+* Fix: 'Add New Address' not showing in My Account > Address when last address is deleted
+* Update: Save shipping address on checkout even if billing and shipping addresses are same
+* Update: POT file
+
+2020-04-24 - version 2.0.1
+* New: WooCommerce 3.9.3, 4.0.1 compatible
+* Fix: Unable to add new addresses from My Account > Address if no address is found
+* Fix: Empty address saved when importing addresses from previous orders
+* Update: Enqueue CSS & JS only on My Account > Address
+* Update: CSS for address actions
+* Update: Plugin action links
+* Update: POT file
+
+2020-01-15 - version 2.0.0
+* New: Support for saving billing address
+* New: Manage addresses from My Account > Address
+* Update: Remove support from WooCommerce 2.5 to WooCommerce 3.4
+* Update: POT file
+
+2019-12-05 - version 1.2.2
+* New: WooCommerce 3.6.5, 3.7.1, 3.8.1 compatible
+* Update: Text domain
+* Update: StoreApps Connector
+* Update: POT file
+
+2018-10-30 - version 1.2.1
+* New: WooCommerce 3.5.0 compatible
+* Update: StoreApps Connector
+
+2018-05-21 - version 1.2.0
+* New: [GDPR] Personal Data Export (WordPress 4.9.6+)
+* New: [GDPR] Personal Data Erase (WordPress 4.9.6+)
+* New: Address deletion feature
+* Update: Tested upto WooCommerce 3.4.0
+* Update: StoreApps Connector
+* Update: POT file
+
+2018-03-15 - version 1.1.2
+* New: Tested upto WooCommerce 3.3.3
+* New: Added WooCommerce version check meta
+* New: StoreApps Connector
+* Fix: Incorrect text domain
+* Update: POT file
+
+2017-08-01 - version 1.1.1
+* Fix: Issue with updating zone/zip code wise shipping cost when Ship to billing address is selected.
+
+2017-04-10 - version 1.1
+* New: WooCommerce 3.0 compatible
+* New: Added backward compatibility for WooCommerce 2.5+
+* Update: Do not save address when shipping address is same as billing address
+
+2017-01-16 - version 1.0.3
+* Fix: Dead white screen in some cases on plugin activation.
+
+2016-12-02 - version 1.0.2
+* Fix: Conflict with Express Checkout for WooCommerce plugin
+* Fix: Warnings when user places order for the very first time
+* Fix: Empty initial response to jQuery whenever the checkout page loads for the first time which caused problem while selecting address
+* Update: Code clean up, identation, localized hardcoded strings and added doc link
+
+2016-10-10 - version 1.0.1
+* Update: Important changes related to Automatic Updates of this plugin
+* Update: POT file
+
+2016-07-06 - version 1.0.0
+* First release

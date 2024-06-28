@@ -1,0 +1,429 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Saved Addresses For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-23 05:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: saved-addresses-for-woocommerce"
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:852
+msgid "Add new billing address"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:856
+msgid "Add new shipping address"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:868
+msgid "Address"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:173
+msgid "Address 1"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:174
+msgid "Address 2"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:330
+#: includes/class-sa-saved-addresses-for-woocommerce.php:349
+msgid "Are you sure you want to delete this address?"
+msgstr ""
+
+#: templates/saved-addresses.php:65
+msgid "Bill to a new address"
+msgstr ""
+
+#: templates/saved-addresses.php:86
+msgid "Bill to this address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:55
+msgctxt "billing"
+msgid "Set this as default address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:68
+msgid "Billing address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:69
+msgctxt "billing address"
+msgid "Add"
+msgstr ""
+
+#: templates/myaccount/my-address.php:32
+msgctxt "billing address"
+msgid "Add new"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:50
+#: includes/class-sa-saved-addresses-for-woocommerce.php:59
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:144
+msgid "Checkout"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:175
+msgid "City"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:163
+msgid "Click here"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:172
+msgid "Company"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:128
+msgid "Contact us"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:178
+msgid "Country"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:353
+#: templates/myaccount/my-address.php:54 templates/myaccount/my-address.php:115
+msgid "Default"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:352
+#: templates/myaccount/my-address.php:55 templates/myaccount/my-address.php:116
+msgid "Default address"
+msgstr ""
+
+#: templates/saved-addresses.php:93 templates/saved-addresses.php:186
+#: templates/myaccount/my-address.php:50 templates/myaccount/my-address.php:111
+msgid "Delete"
+msgstr ""
+
+#: templates/myaccount/my-address.php:50 templates/myaccount/my-address.php:111
+msgid "Delete this address"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:111
+#: includes/admin/class-saw-admin-welcome.php:129
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:163
+msgid ""
+"Earlier, all saved addresses used to show up. Now by default, only two "
+"addresses will be displayed. Customers can choose from other saved addresses "
+"using the select box."
+msgstr ""
+
+#: templates/saved-addresses.php:92 templates/saved-addresses.php:185
+#: templates/myaccount/my-address.php:49 templates/myaccount/my-address.php:110
+msgid "Edit"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:860
+msgid "Edit billing address"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:864
+msgid "Edit shipping address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:49 templates/myaccount/my-address.php:110
+msgid "Edit this address"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:283
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:285
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:292
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:284
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:282
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:289
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:288
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:287
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:286
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:293
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:291
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:290
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:170
+msgid "Explore all plugins from StoreApps"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:160
+msgid "FAQ"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:170
+msgid "First Name"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:80
+msgid ""
+"For registered users, we save your every unique billing and shipping address."
+" Those addresses will be avaiable to you during the checkout process. User "
+"can also modify the addresses from their My Account > Address page."
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:88
+#: includes/admin/class-saw-admin-notices.php:110
+msgid "Getting started"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:109
+msgid ""
+"Glad to have you onboard. We hope Saved Addresses For WooCommerce adds to "
+"your desired success 🏆"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:170
+msgid "Hide this"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woocommerce.com/products/saved-addresses-for-woocommerce/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.storeapps.org/"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:70
+msgid "Important - "
+msgstr ""
+
+#. 1. start of a tag. 2. end of a tag
+#: includes/admin/class-saw-admin-notices.php:167
+#, php-format
+msgid ""
+"Kindly review your checkout page to know more. Reach out to us from "
+"%1$1shere%2$2s for any queries."
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:171
+msgid "Last Name"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:147
+msgid "Learn how it works on checkout"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:155
+msgid "Learn how it works on My Account > Addresses"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:162
+msgid "Major update - Display of addresses on the checkout page."
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:152
+msgid "My Account"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:689
+msgid "Phone"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:73
+msgid "Please update WooCommerce to the latest version"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:177
+msgid "Postcode"
+msgstr ""
+
+#. Email address.
+#: includes/admin/class-saw-privacy.php:237
+#, php-format
+msgid "Removed all saved Shipping Addresses for user \"%s\""
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:113
+msgid "Review"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Save billing and shipping addresses for later use and do quick checkout. "
+"Easily manage address from My Account."
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-saw-privacy.php:38
+#: includes/admin/class-saw-privacy.php:69
+msgid "Saved Addresses For WooCommerce"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:71
+msgid ""
+"Saved Addresses For WooCommerce plugin is active but it will only work with "
+"WooCommerce 3.7+."
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:136
+msgid ""
+"Saved Addresses plugin allows your users to add multiple billing and "
+"shipping addresses. Users can add, edit, delete an address from checkout or "
+"My Account > Addresses tab. Users can also set a default address from their "
+"account."
+msgstr ""
+
+#: templates/myaccount/my-address.php:31
+msgid "Saved billing addresses"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:93
+#: includes/admin/class-saw-privacy.php:108
+#: includes/admin/class-saw-privacy.php:133
+msgid "Saved Shipping Addresses"
+msgstr ""
+
+#: templates/myaccount/my-address.php:92
+msgid "Saved shipping addresses"
+msgstr ""
+
+#: templates/saved-addresses.php:52 templates/saved-addresses.php:145
+msgid "Select an address..."
+msgstr ""
+
+#: templates/saved-addresses.php:89 templates/saved-addresses.php:182
+msgid "selected"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:351
+msgid "Set default"
+msgstr ""
+
+#: templates/myaccount/my-address.php:54
+msgctxt "set default billing"
+msgid "Set default"
+msgstr ""
+
+#: templates/myaccount/my-address.php:115
+msgctxt "set default shipping"
+msgid "Set default"
+msgstr ""
+
+#: includes/class-sa-saved-addresses-for-woocommerce.php:350
+msgid "Set this as default address"
+msgstr ""
+
+#: templates/saved-addresses.php:158
+msgid "Ship to a new address"
+msgstr ""
+
+#: templates/saved-addresses.php:179
+msgid "Ship to this address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:116
+msgctxt "shipping"
+msgid "Set this as default address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:129
+msgid "Shipping address"
+msgstr ""
+
+#: templates/myaccount/my-address.php:130
+msgctxt "shipping address"
+msgid "Add"
+msgstr ""
+
+#: templates/myaccount/my-address.php:93
+msgctxt "shipping address"
+msgid "Add new"
+msgstr ""
+
+#: includes/admin/class-saw-privacy.php:176
+msgid "State"
+msgstr ""
+
+#. Author of the plugin
+msgid "StoreApps"
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:112
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:108
+msgid "Thank you for installing Saved Addresses For WooCommerce!"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:139
+msgid ""
+"This plugin does not have any settings in the admin. You can start using the "
+"plugin after activating."
+msgstr ""
+
+#: includes/admin/class-saw-admin-notices.php:161
+msgid "Welcome to Saved Addresses for WooCommerce 2.5.1!"
+msgstr ""
+
+#: includes/admin/class-saw-admin-welcome.php:173
+msgid "Yes, show me"
+msgstr ""
+
+#: templates/myaccount/my-address.php:73 templates/myaccount/my-address.php:134
+msgid "You have not set up this type of address yet."
+msgstr ""

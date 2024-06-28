@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FME Addons: Shop as a Customer for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-13 09:25+0000\n"
+"PO-Revision-Date: 2023-03-08 11:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Malay\n"
+"Language: ms_MY\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: shop-as-a-customer-for-woocommerce"
+
+#: shop-as-a-customer-for-woocommerce.php:559
+#: shop-as-a-customer-for-woocommerce.php:585
+msgid "Action"
+msgstr "Tindakan"
+
+#: shop-as-a-customer-for-woocommerce.php:497
+msgid "By Default Order Status During Offline Payment"
+msgstr "Mengikut Status Pesanan Lalai Semasa Pembayaran Luar Talian"
+
+#: shop-as-a-customer-for-woocommerce.php:1147
+msgid "compress to left"
+msgstr "mampat ke kiri"
+
+#: shop-as-a-customer-for-woocommerce.php:1120
+#: shop-as-a-customer-for-woocommerce.php:1130
+msgid "compress to right"
+msgstr "mampat ke kanan"
+
+#: shop-as-a-customer-for-woocommerce.php:723
+#: shop-as-a-customer-for-woocommerce.php:753
+msgid "Customer"
+msgstr "Pelanggan"
+
+#: shop-as-a-customer-for-woocommerce.php:396
+msgid "Customer Logs"
+msgstr "Log Pelanggan"
+
+#: shop-as-a-customer-for-woocommerce.php:1560
+msgid "Edit Profile"
+msgstr "Sunting profil"
+
+#: shop-as-a-customer-for-woocommerce.php:554
+#: shop-as-a-customer-for-woocommerce.php:580
+msgid "Email"
+msgstr "E-mel"
+
+#. Name of the plugin
+msgid "FME Addons: Shop as a Customer for WooCommerce"
+msgstr "FME Addons: Beli sebagai Pelanggan untuk WooCommerce"
+
+#. Author of the plugin
+msgid "fmeaddons"
+msgstr "fmeaddon"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.fmeaddons.com/"
+msgstr "https://www.fmeaddons.com/"
+
+#: shop-as-a-customer-for-woocommerce.php:542
+#: shop-as-a-customer-for-woocommerce.php:568
+#: shop-as-a-customer-for-woocommerce.php:711
+#: shop-as-a-customer-for-woocommerce.php:741
+msgid "ID"
+msgstr "ID"
+
+#: shop-as-a-customer-for-woocommerce.php:717
+#: shop-as-a-customer-for-woocommerce.php:747
+msgid "Logged in At"
+msgstr "Log masuk Di"
+
+#: shop-as-a-customer-for-woocommerce.php:733
+#: shop-as-a-customer-for-woocommerce.php:763
+msgid "Message On Whatsapp"
+msgstr "Mesej Di Whatsapp"
+
+#: shop-as-a-customer-for-woocommerce.php:548
+#: shop-as-a-customer-for-woocommerce.php:574
+msgid "Name"
+msgstr "Nama"
+
+#: shop-as-a-customer-for-woocommerce.php:1403
+msgid "next"
+msgstr "seterusnya"
+
+#: shop-as-a-customer-for-woocommerce.php:1402
+msgid "No Records found"
+msgstr "Tiada rekod dijumpai"
+
+#: shop-as-a-customer-for-woocommerce.php:728
+#: shop-as-a-customer-for-woocommerce.php:758
+msgid "Products"
+msgstr "Produk"
+
+#: shop-as-a-customer-for-woocommerce.php:1565
+msgid "Recent Customer:"
+msgstr "Pelanggan Terkini:"
+
+#: shop-as-a-customer-for-woocommerce.php:523
+msgid "Save Settings"
+msgstr "Simpan Tetapan"
+
+#: shop-as-a-customer-for-woocommerce.php:453
+msgid "Select Role(s)"
+msgstr "Pilih Peranan"
+
+#: shop-as-a-customer-for-woocommerce.php:421
+msgid "Select Tab to Switch as Customer/Guest"
+msgstr "Pilih Tab untuk Bertukar sebagai Pelanggan/Tetamu"
+
+#: shop-as-a-customer-for-woocommerce.php:402
+msgid "Settings"
+msgstr "tetapan"
+
+#: shop-as-a-customer-for-woocommerce.php:527
+msgid "Settings saved successfully"
+msgstr "Tetapan berjaya disimpan"
+
+#: shop-as-a-customer-for-woocommerce.php:1393
+msgid "Shop as Customer"
+msgstr "Beli sebagai Pelanggan"
+
+#: shop-as-a-customer-for-woocommerce.php:527
+msgid "Success!"
+msgstr "Berjaya!"
+
+#: shop-as-a-customer-for-woocommerce.php:1555
+msgid "Switch"
+msgstr "Tukar"
+
+#: shop-as-a-customer-for-woocommerce.php:1145
+msgid "Switch Back "
+msgstr "Tukar Kembali"
+
+#. Description of the plugin
+msgid ""
+"Switch to any customer profile from administration panel and use WooCommerce "
+"store as customer, Create orders  \tand Edit user profile."
+msgstr ""
+"Beralih kepada mana-mana profil pelanggan daripada panel pentadbiran dan "
+"gunakan kedai WooCommerce sebagai pelanggan, Buat pesanan dan Edit profil "
+"pengguna."
+
+#: shop-as-a-customer-for-woocommerce.php:1358
+msgid "Switch To Customer"
+msgstr "Tukar Kepada Pelanggan"
+
+#: shop-as-a-customer-for-woocommerce.php:1365
+msgid "switch to customer"
+msgstr "bertukar kepada pelanggan"
+
+#: shop-as-a-customer-for-woocommerce.php:390
+msgid "Switch To Customers"
+msgstr "Tukar Kepada Pelanggan"
+
+#: shop-as-a-customer-for-woocommerce.php:1344
+msgid "Switch To Guest"
+msgstr "Tukar Kepada Tetamu"
+
+#: shop-as-a-customer-for-woocommerce.php:1351
+msgid "switch to Guest"
+msgstr "bertukar kepada Tetamu"
+
+#: shop-as-a-customer-for-woocommerce.php:1558
+msgid "View Orders"
+msgstr "Lihat Pesanan"
+
+#: shop-as-a-customer-for-woocommerce.php:1137
+msgid "You are now login as "
+msgstr "Anda kini log masuk sebagai"
+
+#: shop-as-a-customer-for-woocommerce.php:376
+msgid "Your settings has been saved!"
+msgstr "Tetapan anda telah disimpan!"

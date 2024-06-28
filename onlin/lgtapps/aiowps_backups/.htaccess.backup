@@ -1,0 +1,32 @@
+
+
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /online/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /online/index.php [L]
+</IfModule>
+
+# END WordPress
+
+# Begin AIOWPSEC Firewall
+<IfModule LiteSpeed>
+php_value auto_prepend_file '/home/villamart.in/public_html/online/aios-bootstrap.php'
+</IfModule>
+<IfModule lsapi_module>
+php_value auto_prepend_file '/home/villamart.in/public_html/online/aios-bootstrap.php'
+</IfModule>
+# End AIOWPSEC Firewall
+

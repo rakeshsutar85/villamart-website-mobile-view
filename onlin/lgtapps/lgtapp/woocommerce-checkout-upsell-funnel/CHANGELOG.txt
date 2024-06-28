@@ -1,0 +1,42 @@
+/*1.0.7  - 2023.04.11*/
+– Updated: Compatible with 'High-Performance order storage (COT)'
+
+/**1.0.6 - 2023.02.15**/
+- Added: Cart conditions by tags
+- Added: Cart conditions by including all products
+
+/**1.0.5 - 2022.10.22**/
+- Added: Set timer to show Order Bump per day
+- Added: Vietnamese translation
+
+/**1.0.4 - 2022.03.29**/
+- Updated: Update support class
+
+/**1.0.3 - 2022.03.22**/
+- Fixed: Do not show Upsell Funnel with the alternative “Recently viewed products”
+- Updated: Update support class
+
+/**1.0.2 - 2022.01.15**/
+- Updated: Compatibility with WC 6.1
+
+/**1.0.1 - 2021.12.10**/
+- Added: Option to exclude added products from upsell list or not
+- Added: Compatibility with REDIS - WooCommerce Dynamic Pricing and Discounts by VillaTheme
+- Updated: Compatibility with WooCommerce Cart All in One by VillaTheme
+
+/**1.0.0.3 - 2021.06.28**/
+- Added: Display button to remove added product on basic template on Upsell Funnel
+
+/**1.0.0.2 - 2021.05.06**/
+- Fixed: Find variation
+- Fixed: double click after change the shipping method
+- Fixed: get product funnel with Catalog visibility
+– Updated: Display variation image on Order Bump
+– Updated: The style of funnel slide while loading
+- Updated: Compatibility with Stripe For WooCommerce by Payment Plugins, support@paymentplugins.com v:3.2.15
+
+/**1.0.0.1 - 2021.03.31**/
+– Updated: Auto update
+
+/**1.0.0 - 2021.03.31**/
+~ The first released

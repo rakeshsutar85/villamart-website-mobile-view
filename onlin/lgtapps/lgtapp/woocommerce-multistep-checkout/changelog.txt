@@ -1,0 +1,142 @@
+---- 2.1.0 (27.12.2022) ---- 
+IMPROVED: Added WooCommerce 7.2.2 compatibility.
+IMPROVED: Added WordPress 6.1 compatibility.
+IMPROVED: New UI integration.
+NEW FEATURE: Added three new Multistep layouts (Vertical box with border, Vertical arrow with border, Accordion with icons).
+NEW FEATURE: Added new Progress bar layouts.
+
+---- 2.0.4 (22.04.2022) ---- 
+IMPROVED: Added WooCommerce 6.4.1 compatibility. 
+IMPROVED: Added WordPress 5.9 compatibility.
+NEW FEATURE: Added feature to display order review and payment step on the right side of each step.
+NEW FEATURE: Added feature to display coupon form above payment.
+
+---- 2.0.3 (11.11.2021) ----
+FIX: Fixed the issue of cart total not shown on the cart step.
+IMPROVED: Added feature to change Next and Previous button position.
+IMPROVED: Added Separator color option for custom separator layout.
+IMPROVED: Added feature to add Progress bar below tabs.
+IMPROVED: Added feature to display “Back to cart” button.
+IMPROVED: Added option to style “Place Order” button.
+IMPROVED: Added WordPress 5.8.2 compatibility.
+IMPROVED: Added Woocommerce 5.9.0 compatibility.
+
+---- 2.0.2 (19.07.2021) ----
+FIX: Fixed compatibility issue with the PHP version below 7.3
+IMPROVED: Added WooCommerce version - 5.5.1 compatibility.
+IMPROVED: Added WordPress 5.7.2 compatibility.
+
+---- 2.0.1 (08.04.2021) ----
+IMPROVEMENT: Validation function updated as per the woocommerce update.
+IMPROVEMENT: Added new js function for making the review data available to outside JS file.
+IMPROVEMENT: Removed the hidden fields value from the step review.
+IMPROVEMENT: Removed the disabled sections from the step review.
+IMPROVEMENT: Woocommerce 5.1.0 compatibility.
+IMPROVEMENT: Wordpress 5.7 compatibility.
+IMPROVEMENT: String translations updated.
+IMPROVEMENT: For Accordion layout next and previous button postioned below all steps.
+IMPROVEMENT: Display shipping address heading while billing and shipping address steps are combined.
+FIX: Cart step coupon field issue corrected.
+FIX: Corrected the cart step hint used.
+NEW FEATURE: Added Custom Separator Layout.
+NEW FEATURE: Added Closed Arrow Layout.
+NEW FEATURE: Added Looped Box Layout.
+NEW FEATURE: Added Simple dot format Layout.
+NEW FEATURE: Added Tab format Layout.
+
+---- 2.0.0 (13.10.2020) ----
+NEW FEATURE: Implemented option for including the cart step.
+NEW FEATURE: Added option for showing the review data.
+NEW FEATURE: Added option for selecting the steps for reviewing the data.
+NEW FEATURE: Added option for selecting the placeholder steps for reviewing the data.
+NEW FEATURE: Added option removing the checkout fields from the review data.
+NEW FEATURE: Added option for showing the billing data in shipping review. 
+IMPROVEMENT: Added woocommerce default validation trigger in the step validation.
+IMPROVEMENT: Woocommerce 4.6.1 compatibility.
+
+---- 1.1.7 (20.03.2020) ----
+IMPROVEMENT: Woocommerce 4.0.0 compatibility.
+
+---- 1.1.6 (20.02.2020) ----
+NEW FEATURE: Added option for disabling the Ajax Validation in steps.
+NEW FEATURE: Added before and after hooks for steps and buttons.
+IMPROVEMENT: Woocommerce 3.9.2 compatibility.
+IMPROVEMENT: Improved the next and previous button html as button type, So the user can add font icons in the button.
+IMPROVEMENT: Improved option of custom content area to add HTML tags.
+FIX: Fix for Astra theme shop page price display.
+FIX: Fix for missing icon of hint text used in the backend.
+
+---- 1.1.5 (03.12.2019) ----
+NEW FEATURE: Added WPML support for step title.
+NEW FEATURE: Added Copatibility with Avada, Hestia, Astra themes.
+IMPROVEMENT: Validation function improvement as per the woocommerce.
+IMPROVEMENT: WordPress 5.3 compatibility.
+FIX: Fix for adding double quotes in admin screen.
+FIX: Fix for login step content visibility.
+
+---- 1.1.4 (08.10.2019) ----
+NEW FEATURE: Option to display checkout login form same as my account login form.
+NEW FEATURE: Option to directly display login and coupon forms instead of links.
+IMPROVEMENT: Login step display synchronized with WooCommerce Guest checkout settings.
+IMPROVEMENT: UI Improvements
+FIX: Fix for accordion layout issue when user is logged in.
+FIX: Fix for select field display issue when enhanced select is disabled in checkout field editor plugin.
+
+---- 1.1.3 (29.04.2019) ----
+FIX: Fix for showing error notice for new installed customers.
+
+---- 1.1.2 (20.02.2019) ----
+FIX: Fix for the issue of displaying incorrect step index in accordion layout for guest users.
+IMPROVED: Updated license module.
+
+---- 1.1.1 (30.01.2019) ----
+NEW FEATURE: New option to display custom contents in custom steps.
+NEW FEATURE: New option to display custom contents in default steps.
+FIX: Fix for the disabled step validation issue when work with checkout field editor plugin.
+
+---- 1.1.0 (28.12.2018) ----
+NEW FEATURE: New option to include login form in checkout form wizard.
+NEW FEATURE: New option to include coupon form in checkout form wizard.
+NEW FEATURE: New option to split review and payment step into two separate steps.
+NEW FEATURE: New option to merge billing and shipping steps into single step.
+NEW FEATURE: New option to hide previous button from first step and next button from last step.
+NEW FEATURE: New option to change Next & Previous button texts.
+NEW FEATURE: New option to set background & text color to completed steps.
+NEW FEATURE: Added option to create new steps with custom content.
+IMPROVED: New filter to modify the step settings.
+IMPROVED: Improved string translation files.
+FIX: Fix for the validation issue with conditionally disabled field using checkout field editor plugin.
+
+---- 1.0.4 (14.11.2018) ----
+IMPROVED: Option to set Tick mark option for completed step.
+IMPROVED: New option to set step icon radius.
+IMPROVED: Improved display style settings tab view.
+IMPROVED: New filter to change hooks priority.
+NEW FEATURE: New multi-step layout "Accordion". Forced accordion layout for all layouts in mobile view.
+NEW FEATURE: Added Option for adding the image in the step index area.
+NEW FEATURE: New option for adding custom JavaScript validation.
+NEW FEATURE: New function to trigger custom step navigation from third party plugins.
+
+---- 1.0.3 (01.06.2018) ----
+FIX: Fix for the issue of not validating disabled fields and sections.
+FIX: Fix for the issue of not triggering ajax validation on conditional fields.
+FIX: Fix for the validation issue of check box group and radio button.
+FIX: Fix for checkout field editor compatibility issue.
+IMPROVED: Enabled forward navigation on step click.
+IMPROVED: Added option to change the width of step and content section in vertical layout.
+IMPROVED: Added option to set left and right alignment for vertical layout.
+NEW FEATURE: New Step layout "time line".
+
+---- 1.0.2 (06.04.2018) ----
+FIX: Fix for the issue of broken line height for steps.
+FIX: Fix for license activation issue.
+IMPROVED: Added option to use any units in the padding options.
+IMPROVED: New options to modify steps padding.
+NEW FEATURE: New options for styling buttons(next and previous).
+
+--- 1.0.1 (17.03.2018) ---
+NEW FEATURE: Vertical tab display added.
+NEW FEATURE: Added option to set tab padding and tab line-height.
+
+--- 1.0.0 (14.03.2018) ---
+INITIAL RELEASE: WooCommerce Multi-Step Checkout.

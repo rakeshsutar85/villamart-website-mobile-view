@@ -1,0 +1,920 @@
+# Copyright (C) 2022 ThemeHigh
+# This file is distributed under the same license as the Multi-Step Checkout for WooCommerce (Pro) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi-Step Checkout for WooCommerce (Pro) 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-multistep-checkout\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-03T05:55:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.0\n"
+"X-Domain: woocommerce-multistep-checkout\n"
+
+#. Plugin Name of the plugin
+msgid "Multi-Step Checkout for WooCommerce (Pro)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://themehigh.com/product/woocommerce-multistep-checkout"
+msgstr ""
+
+#. Description of the plugin
+msgid "Multi-Step Checkout for WooCommerce plugin helps you to split the WooCommerce checkout form into simpler steps."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeHigh"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themehigh.com/"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:257
+#: admin/class-thwmsc-admin-settings.php:29
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:259
+msgid "Enable <a class=\"thwmscp-theme-color\" target=\"_blank\" href=\"%s\">Allow customers to log into an existing account during checkout</a> from Woocommerce settings."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:260
+msgid "Activate the <a class=\"thwmscp-theme-color\" target=\"_blank\" href=\"%s\">Enable the use of coupon codes</a> Option from Woocommerce settings."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:263
+msgid "Include login step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:263
+msgid "You can change the step index from checkout steps tab. For accordion style, login reordering is not possible due to nested form effect. The login step will depend on the woocommerce Accounts & Privacy tab settings."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:266
+msgid "Include coupon step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:266
+msgid "You can change the step index from checkout steps tab. For accordion style, coupon reordering is not possible due to nested form effect. The coupon step will depend on the woocommerce Accounts & Privacy tab settings."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:269
+msgid "Show order review and payment in separate steps"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:269
+msgid "You can change the step index from checkout steps tab."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:272
+msgid "Show order review and payment on right side"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:275
+msgid "Combine billing step and shipping step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:275
+msgid "The Shipping step will merge to the Billing step, Please change the Billing step title if required from checkout steps tab. "
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:278
+msgid "Display my account landing form in login step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:278
+msgid "The default login step content will be replaced with the form used in the login and registration of my account page. My account landing page will be displayed in case of the Logged in users."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:281
+msgid "Show login form on load"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:281
+msgid "Enable this option to display the login form on page load."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:284
+msgid "Show coupon form on load"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:284
+msgid "This will shows coupon form on page loads."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:287
+msgid "Show coupon form above payment"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:289
+#: admin/class-thwmsc-admin-settings-button.php:456
+msgid "Next and Previous Button Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:291
+msgid "Include cart step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:291
+msgid "You can change the step index from checkout steps tab. For accordion style, Cart step reordering is not possible due to nested form effect."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:295
+#: admin/class-thwmsc-admin-settings-advanced.php:639
+msgid "Review Step Details"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:297
+msgid "Choose steps to show on review"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:300
+msgid "Step for displaying review"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:303
+msgid "Show billing & shipping details as same"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:303
+msgid "If the Shipping destination (WooCommerce Settings) is set as Force shipping to the customer billing address or If the option Combine Billing step and Shipping step is enabled, then this option will take no effect."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:306
+msgid "Exclude checkout fields"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:306
+msgid "Exclude the fields from review section."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:308
+#: admin/class-thwmsc-admin-settings-button.php:459
+msgid "Place order Button Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:309
+#: admin/class-thwmsc-admin-settings-button.php:462
+msgid "Back to cart Button Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:351
+#: admin/class-thwmsc-admin-settings-button.php:336
+#: admin/class-thwmsc-admin.php:55
+msgid "Settings successfully reset"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:488
+#: admin/class-thwmsc-admin-settings-button.php:356
+#: admin/class-thwmsc-admin-settings-display.php:513
+#: admin/class-thwmsc-admin-settings-general.php:776
+#: admin/class-thwmsc-admin-settings-general.php:818
+msgid "Your changes were saved."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:490
+#: admin/class-thwmsc-admin-settings-advanced.php:921
+#: admin/class-thwmsc-admin-settings-button.php:358
+#: admin/class-thwmsc-admin-settings-display.php:517
+#: admin/class-thwmsc-admin-settings-general.php:778
+#: admin/class-thwmsc-admin-settings-general.php:820
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:543
+msgid "Plugin settings data"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:544
+#: admin/class-thwmsc-admin-settings-advanced.php:843
+msgid "You can transfer the saved settings data between different installs by copying the text inside the text box. To import data from another install, replace the data in the text box with the one from another install and click \"Import Settings\"."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:636
+msgid "Other Step-Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:642
+#: admin/class-thwmsc-admin-settings-advanced.php:840
+msgid "Backup and Import Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:755
+#: admin/class-thwmsc-admin-settings-advanced.php:802
+#: admin/class-thwmsc-admin-settings-button.php:589
+#: admin/class-thwmsc-admin-settings-display.php:976
+msgid "Reset to default"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:757
+#: admin/class-thwmsc-admin-settings-advanced.php:803
+#: admin/class-thwmsc-admin-settings-button.php:590
+#: admin/class-thwmsc-admin-settings-display.php:977
+#: admin/class-thwmsc-admin-settings-general.php:56
+msgid "Save changes"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:842
+msgid "Plugin Settings Data"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-advanced.php:918
+msgid "Your Settings Updated."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:84
+msgid "Hide the previous button on the first step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:87
+msgid "Hide the next button for the last step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:90
+msgid "Previous button text"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:93
+msgid "Next button text"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:96
+msgid "Button position"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:99
+msgid "Button alignment"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:102
+msgid "Button place order text"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:105
+msgid "Enable back to cart button"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:108
+msgid "Back to cart button text"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:135
+msgid "Button class"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:138
+msgid "Enable button styling"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:141
+#: admin/class-thwmsc-admin-settings-button.php:174
+msgid "Font size"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:144
+#: admin/class-thwmsc-admin-settings-button.php:177
+msgid "Font color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:147
+#: admin/class-thwmsc-admin-settings-button.php:180
+msgid "Font color - Hover"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:150
+#: admin/class-thwmsc-admin-settings-button.php:183
+msgid "Background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:153
+#: admin/class-thwmsc-admin-settings-button.php:186
+msgid "Background color - Hover"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:156
+msgid "Padding"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:159
+msgid "Border width"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:162
+msgid "Border color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:165
+msgid "Border radius"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:168
+msgid "Border style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-button.php:171
+msgid "Activate place order button styling"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:66
+msgid "Horizontal Box"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:67
+msgid "Horizontal Arrow"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:68
+msgid "Vertical Box"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:69
+msgid "Vertical Arrow"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:70
+msgid "Vertical Box with Border"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:71
+msgid "Vertical Arrow with Border"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:72
+msgid "Closed Arrow"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:73
+msgid "Time Line"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:74
+msgid "Simple Dot Format"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:75
+msgid "Classic Accordion"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:76
+msgid "Accordion with Icons"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:77
+msgid "Looped Box"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:78
+msgid "Tab Format"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:79
+msgid "Custom Separator"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:102
+msgid "Progress bar showing percentage"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:103
+msgid "Progress bar showing gradual progress"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:104
+msgid "Progress bar showing step progression"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:175
+msgid "Display Layout"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:177
+msgid "Activate multistep"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:180
+msgid "Activate step validation"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:183
+msgid "Activate step-click navigation"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:186
+msgid "Force accordion layout for mobile view"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:186
+msgid "If the layout is broken in mobile view, you can use the accordion layout for mobile view to overcome css issue."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:190
+#: admin/class-thwmsc-admin-settings-display.php:660
+msgid "Multistep Layout"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:194
+msgid "Step Style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:197
+msgid "Tab position"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:200
+msgid "Text alignment"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:203
+msgid "Step Section Width"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:206
+msgid "Step Content Width"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:209
+msgid "Custom separator with icon"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:212
+msgid "Display Style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:214
+#: admin/class-thwmsc-admin-settings-general.php:411
+#: admin/class-thwmsc-admin-settings-general.php:559
+msgid "Content background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:217
+msgid "Step text color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:220
+msgid "Step text color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:223
+msgid "Step font size"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:226
+msgid "Step font weight"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:229
+msgid "Step text transform"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:232
+msgid "Show different color for completed tabs"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:235
+msgid "Completed Tab background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:235
+#: admin/class-thwmsc-admin-settings-display.php:317
+msgid "Disable the option &#39;Activate step-click navigation&#39; in Additional Settings for activating this feature."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:238
+msgid "Completed Tab Text color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:241
+msgid "Border color for tab format layout"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:244
+msgid "Show progress bar below multistep layout"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:247
+msgid "Progress bar layouts"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:250
+msgid "Progress bar color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:253
+msgid "Progress bar background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:256
+msgid "Progress bar step color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:262
+msgid "Progress bar height"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:265
+msgid "Dot background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:268
+msgid "Dot color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:271
+msgid "Dot background color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:274
+msgid "Dot color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:278
+msgid "Show different color for completed"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:281
+msgid "Dot background color - Completed"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:284
+msgid "Dot color - Completed"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:287
+msgid "Dot width/height"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:290
+msgid "Dot padding"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:293
+msgid "Step background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:296
+msgid "Step background color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:299
+msgid "Step line height"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:302
+msgid "Step padding"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:305
+msgid "Custom Separator color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:308
+msgid "Custom Separator color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:311
+msgid "Completed Custom Separator color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:315
+msgid "Step Index style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:317
+msgid "Activate checkmark symbol for completed step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:320
+msgid "Checkmark background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:323
+msgid "Checkmark tick color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:326
+msgid "Checkmark border color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:329
+msgid "Step index roundness"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:329
+msgid "Adjust the roundness of the step title icon (input in px or %)."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:332
+msgid "Space between border and index"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:335
+msgid "Step index width/height"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:335
+msgid "Height and width of the index is applicable only if the value is less than line height."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:338
+msgid "Index font color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:341
+msgid "Index font color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:344
+msgid "Index border color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:347
+msgid "Index border color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:350
+msgid "Index background color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:353
+msgid "Index background color - Active"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:360
+msgid "Button Style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:366
+#: admin/class-thwmsc-admin-settings-display.php:369
+msgid "Time Line Types"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:372
+msgid "Time Line Title"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:663
+msgid "Progress Bar"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:666
+msgid "Step Index Style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:669
+msgid "Additional Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:710
+msgid "Horizontal"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:714
+msgid "Vertical"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:718
+msgid "Accordion"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:723
+msgid "Layouts"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-display.php:788
+msgid "Display style"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:57
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:65
+#: admin/class-thwmsc-admin-settings-general.php:86
+#: admin/class-thwmsc-admin-settings-general.php:94
+msgid "Add new step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:82
+#: admin/class-thwmsc-admin-settings-general.php:90
+msgid "Title"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:83
+#: admin/class-thwmsc-admin-settings-general.php:91
+#: admin/class-thwmsc-admin-settings-general.php:354
+#: admin/class-thwmsc-admin-settings-general.php:501
+msgid "Display index"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:84
+msgid "Display index When Logged-in"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:327
+#: admin/class-thwmsc-admin-settings-general.php:330
+#: admin/class-thwmsc-admin-settings-general.php:458
+#: admin/class-thwmsc-admin-settings-general.php:461
+msgid "Enabled"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:334
+#: admin/class-thwmsc-admin-settings-general.php:465
+msgid "Name"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:335
+#: admin/class-thwmsc-admin-settings-general.php:466
+msgid "Step title"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:344
+#: admin/class-thwmsc-admin-settings-general.php:495
+msgid "Index type"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:348
+#: admin/class-thwmsc-admin-settings-general.php:498
+msgid "Text index"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:349
+#: admin/class-thwmsc-admin-settings-general.php:498
+msgid "Icon index"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:360
+#: admin/class-thwmsc-admin-settings-general.php:507
+msgid "Logged in Index"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:397
+#: admin/class-thwmsc-admin-settings-general.php:545
+msgid "Upload image"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:404
+#: admin/class-thwmsc-admin-settings-general.php:407
+#: admin/class-thwmsc-admin-settings-general.php:552
+#: admin/class-thwmsc-admin-settings-general.php:555
+msgid "Enable content settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:412
+#: admin/class-thwmsc-admin-settings-general.php:560
+msgid "Content font color"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:429
+#: admin/class-thwmsc-admin-settings-general.php:432
+#: admin/class-thwmsc-admin-settings-general.php:577
+#: admin/class-thwmsc-admin-settings-general.php:580
+msgid "Use only custom content for this step"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:436
+#: admin/class-thwmsc-admin-settings-general.php:585
+msgid "Custom content"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:481
+msgid "Action hook name : "
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:490
+msgid "Copy Hook Name"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:596
+msgid "Display position"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:601
+msgid "Above the default fields"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:602
+msgid "Below the default fields"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:617
+msgid "Step settings successfully reset"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:737
+msgid "New step added successfully."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:739
+msgid "New step not added due to an error."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:754
+msgid "Step Updated successfully."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:756
+msgid "Your changes were not saved due to an error (or you made none!)"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-general.php:760
+msgid "This step does not exist."
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-license.php:55
+msgid "You need to have a valid License in order to get upgrades or support for this plugin"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings-license.php:63
+#: admin/class-thwmsc-admin-settings-license.php:73
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings.php:29
+msgid "Checkout Steps"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings.php:29
+msgid "Display Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings.php:29
+msgid "Button Setttings"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings.php:29
+msgid "Plugin License"
+msgstr ""
+
+#: admin/class-thwmsc-admin-settings.php:75
+#: admin/class-thwmsc-admin-settings.php:126
+#: admin/class-thwmsc-admin-settings.php:127
+#: admin/class-thwmsc-admin-settings.php:128
+#: admin/class-thwmsc-admin-settings.php:352
+#: admin/class-thwmsc-admin-settings.php:367
+#: admin/class-thwmsc-admin-settings.php:390
+#: admin/class-thwmsc-admin-settings.php:458
+#: admin/class-thwmsc-admin-settings.php:485
+#: public/class-thwmsc-public.php:1661
+msgid "%s"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:128
+msgid "WooCommerce Multistep Checkout"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:129
+msgid "Multistep Checkout"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:134
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:140
+msgid "Settings"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:151
+msgid "View plugin documentation"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:151
+msgid "Docs"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:152
+msgid "Visit premium customer support"
+msgstr ""
+
+#: admin/class-thwmsc-admin.php:152
+msgid "Premium support"
+msgstr ""
+
+#: class-thwmsc-license-manager.php:445
+msgid "Software License Key"
+msgstr ""
+
+#: public/class-thwmsc-public.php:889
+msgid "Review Shipping Fields"
+msgstr ""
+
+#: public/class-thwmsc-public.php:890
+msgid "Review"
+msgstr ""
+
+#: public/class-thwmsc-template-functions.php:51
+msgid "Previous"
+msgstr ""
+
+#: public/class-thwmsc-template-functions.php:52
+msgid "Next"
+msgstr ""
+
+#: woocommerce-multistep-checkout.php:59
+msgid " Find out how to <a href=\"%s\" target=\"_blank\">get your license key</a>."
+msgstr ""

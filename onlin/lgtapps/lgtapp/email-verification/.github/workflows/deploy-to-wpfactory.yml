@@ -1,0 +1,23 @@
+on:
+  push:
+    tags:
+    - "*"
+jobs:
+  upload-tag:
+    runs-on: ubuntu-latest
+    name: Upload Tag
+    steps:
+
+    - name: Upload
+      uses: wpcodefactory/upload-tag-to-url@v1.0.0
+      id: release
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        filename: 'email-verification-for-woocommerce-pro'
+        filename_ext: 'zip'        
+        to_url: 'https://wpfactory.com'
+        file_param: 'alg_mpwcfa_pudpf_file'
+        url_params: '{"alg_mpwcfa_pudpf_code": "${{ secrets.WPFACTORY_PUDPF_CODE }}"}'
+    
+    - name: Response
+      run: echo Response from URL - ${{ steps.release.outputs.response }}

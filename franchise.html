@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width , initial-scale = 1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+    <title>VillaMart.com - Happy Farmers, Healthy Consumers</title>
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+</head>
+
+<body background="images/background.png" oncontextmenu="return false;">
+    <div style="background: #014017; height: 80px; position: sticky; top: 0; z-index: 100;">
+        <nav>
+            <a href="index.html"><img src="images/villamart-logo.png" alt="logo"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li>
+                        <a href="index.html">HOME</a>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <a>COMPANY</a>
+                            <div class="dropdown-content">
+                                <div class="dropdown-col">
+                                    <a href="about.html" id="about"><span style="color: black;">About</span></a>
+                                    <p>
+                                        Ambitious plan to establish a sustain- able marketplace for farmers</p>
+                                </div>
+
+                                <div class="dropdown-col">
+                                    <a href="team.html" style="font-weight: bold;"><span
+                                            style="color: black;">Team</span></a>
+                                    <p style=" text-align: justify; font-size: 9.5px; width: 100px;">Highly
+                                        educated, self-motivated guys with a grounded approach </p>
+                                </div>
+
+                                <div class="dropdown-col">
+                                    <a href="company journey.html" style="font-weight: bold;"><span
+                                            style="color: black;">Journey</span></a>
+                                    <p style="text-align: justify; font-size: 10px; width: 100px; ">Since
+                                        2017 on a path of establishing a Tech Enabled Farmers Market</p>
+                                </div>
+
+                                <div class="dropdown-col">
+                                    <a href="gallery.html" style="font-weight: bold;"><span style="color: black;">Media
+                                            & Gallery</span></a>
+                                    <p style="text-align: justify; font-size: 10px; width: 100px;">We
+                                        operate with passion, joy, and celebration <br> <br></p>
+                                </div>
+
+                                <!-- <div class="contact-col">
+                                    <a href="business_model.html" style="font-weight: bold;">Business
+                                        Model</a>
+                                    <p style="text-align: center; font-size: small;height: 100px; width: 150px;">Fostering growth, promoting happiness & health in society.</p>
+                                </div> -->
+
+                                <!-- <div class="contact-col">
+                                    <a href="media.html" style="font-weight: bold;">Media</a>
+                                    <p style="text-align: center; font-size: small;height: 100px; width: 150px;">Join us in spreading happiness.</p>
+                                </div> -->
+
+                                <div class="dropdown-col">
+                                    <a href="blog.html" style="font-weight: bold;"><span
+                                            style="color: black;">Blog</span></a>
+                                    <p style="text-align: justify; font-size: 10px; width: 150px;">Gain
+                                        insights from diverse stakeholders. <br><br> <br> </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="franchise.html">FRANCHISE MODEL</a>
+                    </li>
+                    <li>
+                        <a href="online.html">ONLINE ORDER</a>
+                    </li>
+                    <!-- <li><a href="gallery.html">GALLERY</a></li> -->
+                    <li>
+                        <a href="contact.html">CONTACT US</a>
+                    </li>
+                    <!-- <li><a href="career.html">CAREER</a></li>
+                                                                                                					<li><a href="contact.html">CONTACT</a></li> -->
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+    </div>
+    <section class="sub-header">
+        <!-- <nav>
+                                    			<a href="index.html"><img src="images/villamart-logo.png" alt="logo"></a>
+                                    			<div class="nav-links" id="navLinks">
+                                    				<i class="fa fa-times" onclick="hideMenu()"></i>
+                                    				<ul>
+                                    					<li><a href="index.html">HOME</a></li>
+                                    					<li>
+                                    						<div class="dropdown">
+                                    							<a>COMPANY</a>
+                                    							<div class="dropdown-content">
+                                    								<a href="about_us.html">About</a>
+                                    								<a href="team.html">Team</a>
+                                    								<a href="">Partners</a>
+                                    							</div>
+                                    						</div>
+                                    					</li>					<li><a href="franchise.html">FRANCHISE</a></li>
+                                    					<li><a href="blog.html">BLOG</a></li>
+                                    					<li><a href="gallery.html">GALLERY</a></li>
+                                    					<li><a href="buy.html">BUY</a></li>
+                                    					<li><a href="career.html">CAREER</a></li>
+                                    					<li><a href="contact.html">CONTACT</a></li>
+                                    				</ul>
+                                    			</div>
+                                    			<i class="fa fa-bars" onclick="showMenu()"></i>
+                                    		</nav> -->
+
+
+        <h1>Franchise</h1>
+    </section>
+
+
+    <section class="franchise-table">
+
+
+        <table>
+            <tr>
+                <th style="background-color: #CCF2A6; color: #ed7d20; font-weight: bold; font-size: larger;">Partnership / Franchise</th>
+                <th style="color: #ed7d20; font-weight: bold; font-size: larger;">Mobile Outlet</th>
+                <th style="background-color: #D2FFE6; color: #ed7d20; font-weight: bold; font-size: larger;">Static Outlet</th>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">Investment</td>
+                <td>3-4 Lakh</td>
+                <td style="background-color: #D2FFE6;">4-5 Lakh</td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">ROI</td>
+                <td>8-12 Months</td>
+                <td style="background-color: #D2FFE6;">8-12 Months</td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">Monthly Income</td>
+                <td>> Rs. 40,000</td>
+                <td style="background-color: #D2FFE6;">> Rs. 40,000</td>
+            </tr>
+
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">Benefits</td>
+                <td>
+                    <li>Supermarket at doorstep</li>
+                    <li>Effortless procurement GPS</li>
+                    <li>based billing & sales analysis</li>
+                    <li>Digitally Local order</li>
+                    <li>No fuel & less expenses</li>
+                    <li>Apartment Entry Permission</li>
+                    <li>Brand connect</li>
+                    <li>Round the year sales boost</li>
+                    <li>Low energy cooling system</li>
+                    <li>Feel & tough buying experience</li>
+                    <li>Fixed time & weekly off as needed</li>
+
+                </td>
+                <td style="background-color: #D2FFE6;">
+                    <li>Digitally Local order</li>
+                    <li>Effortless Procurement</li>
+                    <li>Technology-backed Freshness</li>
+                    <li>Profit Boost through Brand connect</li>
+                    <li>Customer acquisition & retention</li>
+                    <li>Real time billing & analysis</li>
+                    <li>Reduced Perishability Risk</li>
+                    <li>Feel & tough buying experience</li>
+                    <li>Optimised price guidance</li>
+                    <li>Profit analysis</li>
+                    <li>Availability of healthy products</li>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">Franchise Cost</td>
+                <td>
+                    <li>Franchise cost 30,000
+                        (Non refundable)</li>
+                    <li>Security deposit 20,000
+                        (Refundable)
+                    </li>
+                </td>
+                <td style="background-color: #D2FFE6;">
+                    <li>Franchise cost 30,000
+                        (Non refundable)</li>
+                    <li>Security deposit 20,000
+                        (Refundable)
+                    </li>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">Additional Investment</td>
+                <td>Battery Vehicle with technology for GPS based billing, cooling system etc 3.5-4 lakh</td>
+                <td style="background-color: #D2FFE6;">Security deposit, interior, exterior design, supermarket rack, smart rack for vegetables,Real time Billing system, camera etc ~4 lakh</td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">Franchise Responsibility</td>
+                <td>
+                    <ol>
+                        <li>Initial investment</li>
+                        <li>Order place to VillaMart</li>
+                        <li>Daily route complete</li>
+                        <li>Sales as per guidance</li>
+                    </ol>
+                </td>
+                <td style="background-color: #D2FFE6;">
+                    <ol>
+                        <li>Initial investment</li>
+                        <li>Order place to VillaMart</li>
+                        <li>Daily Opening as per time</li>
+                        <li>Store maintain & Sales</li>
+                        <li>Keep wastage separate</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">
+                    VillaMart Responsibility
+                </td>
+                <td>
+                    <ol>
+                        <li>Vehicle Setup with technology</li>
+                        <li>Route Plan & Appartment connect</li>
+                        <li>Daily Product Delivery</li>
+                        <li>Training & monitoring</li>
+                        <li>Sales analysis & consumer track</li>
+                    </ol>
+                </td>
+                <td style="background-color: #D2FFE6;">
+                    <ol>
+                        <li>Exterior & Interior Design</li>
+                        <li>Providing technology</li>
+                        <li>Ad & Consumer Connect</li>
+                        <li>Daily Product Delivery</li>
+                        <li>Training & monitoring</li>
+                        <li>Sales analysis & consumer track</li>
+                        <li>Take care of leftover</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color: #CCF2A6; font-weight: bold;">VillaMart Share</td>
+                <td>3% revenue share</td>
+                <td style="background-color: #D2FFE6;">3% revenue share</td>
+            </tr>
+
+        </table>
+        
+    </section>
+
+
+
+    <section class="contact-us">
+        <div class="row">
+            <div>
+
+                <div class="contact-col">
+                    <div class="image-hover-text" style="margin:0px">
+                        <div class="img__wrap" style="margin:0px">
+                            <img class="" src="images/static_franchise.png" style="height: 400px; width: 400px;" />
+                            <p class="img__description">Text about Static Outlet</p>
+                        </div>
+                    </div>
+
+                    <div style="width: 100%; align-content: center;">
+                        <p style="margin-left: 40%;">Static Outlet</p>
+                    </div>
+                </div>
+
+                <div class="contact-col">
+                    <div class="image-hover-text" style="margin:0px">
+                        <div class="img__wrap" style="margin:0px">
+                            <img class="" src="images/mobile_franchise.png" style="height: 400px; width: 400px;" />
+                            <p class="img__description">Text about Mobile Outlet</p>
+                        </div>
+                    </div>
+
+                    <div style="width: 100%; align-content: center;">
+                        <p style="margin-left: 40%;">Mobile Outlet</p>
+                    </div>
+                </div>
+
+
+                <!-- <div class="contact-col">
+                    <div class="image-hover-text" style="margin:0px">
+                        <div class="img__wrap" style="margin:0px">
+                            <img class="" src="images/pfc_centres.JPG" style="height: 200px; width: 400px;" />
+                            <p class="img__description">Text about PFC</p>
+                        </div>
+                    </div>
+
+                    <div style="width: 100%; align-content: center;">
+                        <p style="margin-left: 40%;">PFC Centre</p>
+                    </div>
+                </div> -->
+
+
+                <!-- <div class="contact-col">
+                    
+                                            <img src="images/mobile_outlet.JPG" alt="" style="height: 200px; width: 400px;">
+                                            <p style="text-align: center;">
+                                                Mobile Outlet</p>
+                                        </div>
+                                        <div class="contact-col">
+                    
+                                            <img src="images/pfc_centres.JPG" alt="" style="height: 200px; width: 400px;">
+                                            <p style="text-align: center;">
+                                                PFC Centre</p>
+                                        </div> -->
+            </div>
+
+
+            <div class="contact-col" style="margin-top: 100px;">
+                <div style=" margin-left: 40%; text-align: center;">
+                    <h3>Enquiry</h3>
+                </div>
+                <form action="mail/sendmailfranchise.php" name="contactForm" onsubmit="return validateForm()" method="post"  >
+                    <input type="text" name="fullname" placeholder="Enter Your name" required >
+                    <input type="text"  name="address" placeholder="Enter Your Address" required>
+                    <input type="email" name="email" placeholder="Enter Your Email Addtress" required>
+                    <input type="number"  name="mobile" placeholder="Enter Your Contact no" required>
+                    <select name="subject" required style="width: 100%; padding: 15px; background-color: #fff;
+                    margin-bottom: 17px;
+                    outline: none;
+                    border: 1px solid #ccc;
+                    box-sizing: border-box;">
+                        <option value="subject">Select a subject</option>
+                        <option value="job">Job</option>
+                        <option value="internship">Internship</option>
+                        <option value="collaboration">Collaboration</option>
+                        <option value="fpo">FPO</option>
+                        <option value="shg">SHG</option>
+                        <option value="govt">Govt</option>
+                        <option value="ngo">NGO</option>
+                        <option value="other">Other</option>
+                    </select>
+
+                    <textarea name="message" id="" cols="30" rows="8" placeholder="message" required></textarea>
+                    <p style="color: red;"> <span id="error"></span> </p>
+                    <button type="submit" name="submit" class="hero-btn red-btn" style="background: #ed7d20;">Send Message</button>
+
+                </form>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- <--------------------Footer Start---------------------------- -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>company</h4>
+                    <ul>
+                        <li><a href="#">about us</a></li>
+                        <li><a href="#">our services</a></li>
+                        <li><a href="#">privacy policy</a></li>
+                        <li><a href="#">affiliate program</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>get help</h4>
+                    <ul>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">shipping</a></li>
+                        <li><a href="#">returns</a></li>
+                        <li><a href="#">order status</a></li>
+                        <li><a href="#">payment options</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>online shop</h4>
+                    <ul>
+                        <li><a href="#">people</a></li>
+                        <li><a href="#">farmers</a></li>
+                        <li><a href="#">shop</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>follow us</h4>
+                    <div class="social-links">
+                        <a href="#">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </footer>
+    <div style="text-align: center; color: darkgrey;padding: 5px; background-color: #085a25">
+        <p style="font-size:x-small">Copyright 2024 &copy; Villamart Pvt. Ltd. All rights reserved.</p>
+    </div>
+    <!-- ------------------------------Footer End------------------------ -->
+
+
+</body>
+
+</html>

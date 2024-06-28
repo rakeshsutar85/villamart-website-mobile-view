@@ -1,0 +1,9 @@
+2024-03-28T05:50:58+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\bacola_sanitize_data() in /home/villamart.in/public_html/online/lgtapps/lgtapp/bacola-core/elementor/widgets/bacola-text-banner.php:567
+Stack trace:
+#0 /home/villamart.in/public_html/online/lgtapps/lgtapp/elementor/includes/base/controls-stack.php(2297): Elementor\Bacola_Text_Banner_Widget->render()
+#1 /home/villamart.in/public_html/online/lgtapps/lgtapp/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#2 /home/villamart.in/public_html/online/lgtapps/lgtapp/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#3 /home/villamart.in/public_html/online/lgtapps/lgtapp/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#4 /home/villamart.in/public_html/online/lgtapps/lgtapp/elementor/includes/base/element-base.php(1372): Elementor\Element_Base->print_element()
+#5 /home/villamart.in/public_html/online/lgtapps/lgtapp/elementor/includes/base/element-base.php( in /home/villamart.in/public_html/online/lgtapps/lgtapp/bacola-core/elementor/widgets/bacola-text-banner.php on line 567
+

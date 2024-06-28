@@ -1,0 +1,1504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Checkout Upsell Funnel Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 04:00+0000\n"
+"PO-Revision-Date: 2022-10-04 09:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: woocommerce-checkout-upsell-funnel"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:849
+msgid ""
+" - The price displayed on recommended products will be  the difference "
+"between the regular price and the discount (based on fixed amount)"
+msgstr ""
+" - Giá của sản phẩm gợi ý sẽ là giá chênh lệch giữa giá bán thường và chiết "
+"khấu( tính theo số tiền cố định)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:846
+msgid ""
+" - The price displayed on recommended products will be  the difference "
+"between the regular price and the discount (based on percentage)"
+msgstr ""
+" - Giá của sản phẩm gợi ý sẽ là giá chênh lệch giữa giá bán thường và chiết "
+"khấu( tính theo tỷ lệ phần trăm)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:855
+msgid ""
+" - The price displayed on recommended products will be the difference "
+"between the sale price and the discount (based on fixed amount). If your "
+"product is not on sale, it will take the regular price."
+msgstr ""
+" - Giá của sản phẩm gợi ý sẽ khác nhau giữa giá khuyến mãi và chiết khấu ( "
+"tính theo số tiền cố định). Nếu sản phẩm không giảm giá, sẽ lấy theo giá bán "
+"thường."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:852
+msgid ""
+" - The price displayed on recommended products will be the difference "
+"between the sale price and the discount (based on percentage). If your "
+"product is not on sale, it will take the regular price."
+msgstr ""
+" - Giá của sản phẩm gợi ý sẽ khác nhau giữa giá khuyến mãi và chiết khấu "
+"(tính theo tỷ lệ phần trăm). Nếu sản phẩm không giảm giá, sẽ lấy theo giá "
+"bán thường."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+msgid "(Short)"
+msgstr "(Rút gọn)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+msgid "...More"
+msgstr "...Thêm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:302
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:612
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1503
+msgid "Add all to cart button"
+msgstr "Nút thêm tất cả vào giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:684
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:720
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:880
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:914
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:950
+msgid "Add Conditions(AND)"
+msgstr "Thêm điều kiện( VÀ )"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:684
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:821
+msgid "ADD TO CART"
+msgstr "THÊM VÀO GIỎ HÀNG"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2156
+msgid "Add to cart with checkbox"
+msgstr "Thêm vào giỏ hàng với hộp kiểm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:262
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:352
+msgid "After billing details"
+msgstr "Sau thông tin thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:356
+msgid "After checkout form"
+msgstr "Sau biểu mẫu thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:271
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:355
+msgid "After payment gateways"
+msgstr "Sau phương thức thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:239
+msgid "All matched rules"
+msgstr "Tất cả các quy tắc phù hợp"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:234
+msgid "Application of rules"
+msgstr "Áp dụng quy tắc"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:200
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:376
+msgid "Apply coupon"
+msgstr "Áp dụng giảm giá"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:208
+msgid "Apply coupon to Order Bump products in Cart"
+msgstr "Áp dụng giảm giá cho sản phẩm Order Bump trong giỏ hàng "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:388
+msgid "Apply coupon to recommended products"
+msgstr "Áp dụng giảm giá cho sản phẩm upsell"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:834
+msgid "ASC"
+msgstr "ASC"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2462
+msgid "Auto Update Key"
+msgstr "Khóa tự động cập nhật"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:484
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:562
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:621
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1147
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1199
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1251
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1402
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1560
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1851
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1911
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2161
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2273
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2341
+msgid "Background"
+msgstr "Màu nền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2153
+msgid "Basic template"
+msgstr "Mẫu cơ bản"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:259
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:351
+msgid "Before billing details"
+msgstr "Trước thông tin thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:350
+msgid "Before checkout form"
+msgstr "Trước biểu mẫu thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:265
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:353
+msgid "Before order details"
+msgstr "Trước  chi tiết đơn hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:268
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:354
+msgid "Before payment gateways"
+msgstr "Trước phương thức thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:701
+msgid "Best selling products"
+msgstr "Sản phẩm bán chạy"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1037
+msgid "Border Color"
+msgstr "Màu viền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:516
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1416
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1574
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1925
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2173
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2285
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2355
+msgid "Border color"
+msgstr "Màu viền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1858
+msgid "Border color 1"
+msgstr "Màu viền 1"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1865
+msgid "Border color 2"
+msgstr "Màu viền 2"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:530
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1077
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1438
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1596
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1947
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2179
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2291
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2375
+msgid "Border radius"
+msgstr "Bo viền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:496
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1044
+msgid "Border style"
+msgstr "Kiểu viền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:522
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1065
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1427
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1585
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1827
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1936
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2365
+msgid "Border width"
+msgstr "Độ rộng viền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2167
+msgid "Box shadow color"
+msgstr "Màu đổ bóng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:647
+msgid ""
+"Button \"More\" will show if a message content length is greater than this "
+"value so that customers can click the button to load full message content. "
+"Leave blank to not limit this."
+msgstr ""
+"Nút \"Xem thêm\" sẽ hiển thị nếu độ dài nội dung tin nhắn lớn hơn giá trị "
+"này để khách hàng có thể nhấp vào nút tải toàn bộ nội dung tin nhắn. Để "
+"trống nếu không hạn chế giá trị này."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:658
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:888
+msgid "Cart Conditions"
+msgstr "Điều kiện giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1618
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2395
+msgid "Cart icon"
+msgstr "Biểu tượng giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:20
+msgid "Cart Subtotal( total of products)"
+msgstr "Tổng phụ giỏ hàng (Tổng sản phẩm)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:21
+msgid "Cart Total"
+msgstr "Tổng giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2259
+msgid "Center"
+msgstr "Ở giữa"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:590
+msgid "Check rules from top to bottom and apply the first one found"
+msgstr ""
+"Kiểm tra quy tắc từ trên xuống dưới và áp dụng quy tắc phù hợp đầu tiên tìm "
+"được"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:23
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:24
+msgid "Checkout Funnel"
+msgstr "Checkout Funnel"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1697
+msgid "Checkout page enable"
+msgstr "Hiên trên trang thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:66
+msgid "Choose order status"
+msgstr "Lựa chọn trạng thái đơn hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:656
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:886
+msgid "Choose the conditions Carts which will display recommended products"
+msgstr "Chọn điều kiện giỏ hàng để hiển thị sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:689
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:919
+msgid "Choose the customers who can see the recommended products"
+msgstr "Chọn những khách hàng sẽ thấy sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:275
+msgid "Choose the position for Order Bump on checkout page"
+msgstr "Lựa chọn vị trí hiển thị Order Bump trên trang thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:513
+msgid "Choose the position for recommended products on checkout page"
+msgstr ""
+"Chọn vị trí hiện danh sách các sản phẩm được gợi ý tại trang thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:581
+msgid "Choose the position for recommended products on checkout page on mobile"
+msgstr ""
+"Chọn vị trí hiện danh sách các sản phẩm được gợi ý tại trang thanh toán trên "
+"điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:451
+msgid "Choose the product to appear"
+msgstr "Chọn sản phẩm xuất hiện"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:309
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:625
+msgid "Clone"
+msgstr "Nhân bản"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:568
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:627
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1326
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1409
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1481
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1567
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1641
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1792
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1918
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1992
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2248
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2279
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2348
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2418
+msgid "Color"
+msgstr "Màu"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:844
+msgid "Conditions of Product"
+msgstr "Điều kiện"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1163
+msgid "Container"
+msgstr "Vùng chứa"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:589
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1010
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1093
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1114
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1135
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1168
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1188
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1220
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1240
+msgid "Content"
+msgstr "Nội dung"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1346
+msgid "Continue button"
+msgstr "Nút tiếp tục"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1663
+msgid "Countdown timer"
+msgstr "Đồng hồ đếm ngược"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:719
+msgid "Cross-sells of products in the cart"
+msgstr "Cross-sells của sản phẩm trong giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:235
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:240
+msgid "current price"
+msgstr "Giá hiện tại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:331
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2445
+msgid "Custom CSS"
+msgstr "Tùy chỉnh CSS"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:114
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:201
+msgid "Customer"
+msgstr "Khách hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:921
+msgid "Customer Conditions"
+msgstr "Điều kiện về khách hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:691
+msgid "Customer conditions"
+msgstr "Điều kiện về khách hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:502
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1051
+msgid "Dashed"
+msgstr "Dashed"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:807
+msgid "Date"
+msgstr "Ngày"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:330
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:649
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1731
+msgid "Days"
+msgstr "Ngày"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:837
+msgid "DESC"
+msgstr "DESC"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:458
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:329
+msgid "Design"
+msgstr "Thiết kế"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2053
+msgid "Desktop"
+msgstr "Trên máy tính"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1838
+#| msgid "Diameter`"
+msgid "Diameter"
+msgstr "Đường kính"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:387
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:748
+msgid "Discount amount"
+msgstr "Chiết khấu"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1281
+msgid ""
+"Display Countdown timer for watching and buying recommend products by "
+"customers, and it was customized in Countdown timer tab"
+msgstr ""
+"Đém ngược thời gian hiển thị sản phẩm gợi ý, tùy chỉnh tại phần 'Đồng hồ đếm "
+"ngược'"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:225
+msgid "Display Order Bump for Checkout form on the Sidebar Cart"
+msgstr "Hiển thị Order Bump trong phần thanh toán của Sidebar Cart"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1277
+msgid ""
+"Display the button for continuing checkout and it was customized in Continue "
+"button tab"
+msgstr "Nút tiếp tục thanh toán, tùy chỉnh trong phần 'Nút tiếp tục'"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1285
+msgid ""
+"Display the button which can add all recommended products to Cart. If the "
+"recommended products are appeared after clicking 'place order' and the "
+"customers click on 'add all to Cart' button, the customers can checkout all "
+"in one time.It is not working if Product Template of Product list tab is "
+"'Add to cart with checkbox. This shortcode was customized in 'Add all to "
+"Cart button' tab"
+msgstr ""
+"Nút cho phép thêm toàn bộ sản phẩm gợi ý vào giỏ hàng. Nếu danh sách gợi ý "
+"hiển thị sau khi nhấp vào nút \"Đặt hàng\", sau khi khách hàng nhấp vào nút "
+"này, đơn hàng sẽ được thanh toán ngay sau khi thêm các sản phẩm gợi ý vào "
+"giỏ. Tính năng này sẽ không hoạt động nếu mẫu sản phẩm gợi ý là 'Thêm vào "
+"giỏ hàng với hộp kiểm' . Mã ngắn này sẽ được tùy chỉnh trong phần \"Nút thêm "
+"tất cả vào giỏ hàng\""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1274
+#| msgid ""
+#| "Display the list of recommended products, this shortcode  is only used in "
+#| "container of pop up and designed in Product list tab and customized in "
+#| "product list tab"
+msgid ""
+"Display the list of recommended products, this shortcode is only used in "
+"container of pop up and designed in Product list tab and customized in "
+"product list tab"
+msgstr ""
+"Danh sách sản phẩm gợi ý, mã ngắn này chỉ được dùng bên trong vùng chứa của "
+"popup và thiết kế tại phần danh sách sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1713
+msgid "Display time"
+msgstr "Thời gian hiển thị"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2058
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2105
+msgid "Display type"
+msgstr "Kiểu hiển thị"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:458
+msgid "Display Upsell Funnel for Checkout form on the Sidebar Cart"
+msgstr "Hiển thị Upsell Funnel trong phần thanh toán của Sidebar Cart"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:508
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1057
+msgid "Dotted"
+msgstr "Dotted"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:505
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1054
+msgid "Double"
+msgstr "Double"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:178
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:362
+msgid "Enable"
+msgstr "Bật"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1709
+msgid ""
+"Enable it to display countdown timer for buying recommended products on "
+"checkout page"
+msgstr ""
+"Cho phép đếm ngược thời gian hiển thị sản phẩm gợi ý trên trang thanh toán "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:217
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:450
+msgid "Enable on Sidebar cart"
+msgstr "Hiển thị trong Sidebar cart"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1815
+msgid "Enable pause button"
+msgstr "Bật nút dừng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:614
+msgid "Enable product image"
+msgstr "Bật ảnh sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:545
+msgid "Enable to display recommended products on mobile"
+msgstr "Cho phép hiện thị các sản phẩm gợi ý trên điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:527
+msgid ""
+"Endpoints are appended to your checkout page to display recommended products"
+msgstr "Điểm cuối được thêm vào trang thanh toán để hiển thị sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:429
+msgid "Exclude added products"
+msgstr "Ẩn sản phẩm trong giỏ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:35
+msgid "Exclude Billing Countries"
+msgstr "Không hiển thị với những đơn có địa chỉ quốc gia thanh toán này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:25
+msgid "Exclude Cart Items"
+msgstr "Không hiển thị nếu có mặt hàng này trong giỏ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:27
+msgid "Exclude Cart Items by Categories"
+msgstr "Không hiển thị nếu có danh mục này trong giỏ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:19
+msgid "Exclude categories"
+msgstr "Không hiển thị nếu sản phẩm thuộc danh mục này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:31
+msgid "Exclude Coupon"
+msgstr "Không hiển thị nếu đơn hàng dùng mã giảm giá này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:17
+msgid "Exclude products"
+msgstr "Sản phẩm không hiển thị"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:441
+msgid "Exclude products which are already in a customer's cart"
+msgstr "Không hiển thị những sản phẩm đã có trong giỏ hàng của khách"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:39
+msgid "Exclude Shipping Countries"
+msgstr "Không hiển thị với những đơn có địa chỉ quốc gia giao hàng này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:24
+msgid "Exclude user"
+msgstr "Không hiển thị đối với những người dùng này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:22
+msgid "Exclude user role"
+msgstr "Không hiển thị với những người dùng có quyền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:698
+msgid "Featured products"
+msgstr "Sản phẩm nổi bật"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:406
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:773
+#, php-format
+msgid "Fixed(%s) price"
+msgstr "%s của giá khuyến mãi"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:400
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:767
+#, php-format
+msgid "Fixed(%s) regular price"
+msgstr "%s của giá bán thường"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:580
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:639
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1332
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1449
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1488
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1607
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1648
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1799
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1958
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1999
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2238
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2385
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2425
+msgid "Font size"
+msgstr "Font size"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1215
+msgid "Footer"
+msgstr "Chân trang"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:349
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:669
+msgid "Friday"
+msgstr "Thứ sáu"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:362
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:54
+msgid "From"
+msgstr "Từ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:163
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:325
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:319
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:636
+msgid "General settings"
+msgstr "Cài đặt chung"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2475
+msgid "Get Key"
+msgstr "Lấy mã"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1016
+msgid "Go to content tab to customize it"
+msgstr "Thiết kế tại phần nội dung"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1019
+msgid "Go to Countdown timer tab to customize it"
+msgstr "Thiết kế tại phần đồng hồ đếm ngược"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:117
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:203
+msgid "Guest"
+msgstr "Khách"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1109
+msgid "Header"
+msgstr "Đầu trang"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:121
+msgid "Hidden"
+msgstr "Đã ẩn"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. URI of the plugin
+msgid "https://villatheme.com/"
+msgstr "https://villatheme.com/"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1461
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1621
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1971
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2397
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:810
+msgid "ID"
+msgstr "ID"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:247
+msgid "If choose 'Apply all rules', all matched rule will be applied"
+msgstr ""
+"Nếu chọn \"Áp dụng tất cả các quy tắc\", tất cả các quy tắc phù hợp đều được "
+"áp dụng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2201
+msgid "Image border color"
+msgstr "Màu viền ảnh"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2217
+msgid "Image border radius"
+msgstr "Bo viền ảnh"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2207
+msgid "Image border width"
+msgstr "Độ rộng viền ảnh"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:34
+msgid "Include Billing Countries"
+msgstr "Đơn có địa chỉ quốc gia thanh toán này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:24
+msgid "Include Cart Items"
+msgstr "Có mặt hàng này trong giỏ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:26
+msgid "Include Cart Items by Categories"
+msgstr "Có mặt hàng thuộc danh mục này trong giỏ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:18
+msgid "Include categories"
+msgstr "Danh mục bắt buộc"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:30
+msgid "Include Coupon"
+msgstr "Đơn hàng dùng mã giảm giá này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:16
+msgid "Include products"
+msgstr "Sản phẩm bắt buộc"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:38
+msgid "Include Shipping Countries"
+msgstr "Đơn có địa chỉ quốc gia giao hàng này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:23
+msgid "Include user"
+msgstr "Hiển thị đối với những người dùng này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:21
+msgid "Include user role"
+msgstr "Hiển thị đối với những người dùng có quyền"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2075
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2122
+msgid "Item per row"
+msgstr "Sản phẩm/ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:100
+msgid "Item Sold"
+msgstr "Mặt hàng đã bán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:998
+msgid "Layout"
+msgstr "Bố cục"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2092
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2139
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:126
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:158
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:85
+msgid "Leave blank to not limit this"
+msgstr "Để trống nếu không hạn chế "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:67
+msgid "leave blank to not limit this"
+msgstr "Để trống nếu không hạn chế "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2262
+msgid "Left"
+msgstr "Bên trái"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:19
+msgid "Limit per day"
+msgstr "Giới hạn mỗi ngày"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:648
+msgid "Max content length"
+msgstr "Độ dài tối đa của nội dung"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:118
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:150
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:77
+#, php-format
+msgid "Max(%s)"
+msgstr "Tối đa(%s)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:813
+msgid "Menu order"
+msgstr "Thứ tự của trang"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:542
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:592
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1302
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1742
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1770
+msgid "Message"
+msgstr "Thông báo"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:105
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:137
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:64
+#, php-format
+msgid "Min(%s)"
+msgstr "Tối thiểu(%s)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2100
+msgid "Mobile"
+msgstr "Điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:189
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:533
+msgid "Mobile enable"
+msgstr "Điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:337
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:657
+msgid "Monday"
+msgstr "Thứ hai"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:731
+msgid "Most expensive products from Billing"
+msgstr "Sản phẩm đắt nhất mà khách hàng đó đã mua"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:728
+msgid "Most purchased products from Billing"
+msgstr "Sản phẩm được khách hàng đó mua nhiều nhất"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:324
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:642
+msgid "Name"
+msgstr "Tên"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:409
+#, php-format
+msgid "New fixed(%s) price"
+msgstr "Giá bán mới(%s) "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:101
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:77
+msgid "No"
+msgstr "Không"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:394
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:499
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:761
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1048
+msgid "None"
+msgstr "Không"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/frontend.php:140
+msgid "Not found data"
+msgstr "Không tìm thấy dữ liệu"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:472
+msgid "On Checkout page"
+msgstr "Trên trang thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:473
+msgid "On popup after clicking 'Place Order' button"
+msgstr "Trên popup sau khi nhấp vào nút \"Đặt hàng\""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:704
+msgid "On sale"
+msgstr "Sản phẩm đang giảm giá"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:20
+msgid "Only logged in"
+msgstr "Chỉ những người dùng đã đăng nhập"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:23
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:24
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:111
+msgid "Order Bump"
+msgstr "Order Bump"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:155
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:164
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:199
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:229
+msgid "Order Bumps"
+msgstr "Order Bumps"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:802
+msgid "Order products by"
+msgstr "Sắp xếp sản phẩm theo"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:45
+msgid "Orders"
+msgstr "Đơn hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:490
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:574
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:633
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1154
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1206
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1258
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2193
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2230
+msgid "Padding"
+msgstr "Lề trong (Padding)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1872
+msgid "Pause button"
+msgstr "Nút dừng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1969
+msgid "Pause icon"
+msgstr "Biểu tượng dừng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:403
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:770
+msgid "Percentage(%) price"
+msgstr "phần trăm(%) của giá khuyến mãi"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:397
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:764
+msgid "Percentage(%) regular price"
+msgstr "phần trăm(%) của giá bán thường"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2479
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a>. You "
+"can auto update WooCommerce Checkout Upsell Funnel plugin. See <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">guide</a>"
+msgstr ""
+"Vui lòng nhập khóa bạn nhận được từ <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a> để tự "
+"động cập nhập WooCommerce Checkout Upsell Funnel. Vui lòng làm theo <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">hướng dẫn</a>"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel.php:32
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Checkout Upsell "
+"Funnel."
+msgstr ""
+"Vui lòng cài đặt và kích hoạt WooCommerce để sử dụng WooCommerce Checkout "
+"Upsell Funnel."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/order-bump.php:116
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/upsell-funnel.php:231
+msgid ""
+"Please select some product options before adding {product_name} to your cart."
+msgstr ""
+"Vui lòng lựa chọn sản phẩm tùy chọn trước khi thêm {product_name} vào giỏ "
+"hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel.php:29
+msgid ""
+"Please update PHP version at least 7.0 to use WooCommerce Checkout Upsell "
+"Funnel."
+msgstr ""
+"Vui lòng cập nhật PHP phiên bản thấp nhất 7.0 để sử dụng WooCommerce "
+"Checkout Upsell Funnel."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:816
+msgid "Popularity"
+msgstr "Phổ biến"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:254
+msgid "Position on checkout page"
+msgstr "Vị trí trên trang thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:819
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:661
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:798
+msgid "Price"
+msgstr "Giá"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:439
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2146
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2301
+msgid "Product 'Add To Cart' button"
+msgstr "Nut \"Thêm sản phẩm vào giỏ\""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2302
+msgid "Product checkbox button"
+msgstr "Nút hộp kiểm sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2227
+msgid "Product details"
+msgstr "Chi tiết sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2190
+msgid "Product image"
+msgstr "Ảnh sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2014
+msgid "Product list"
+msgstr "Danh sách sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:547
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:596
+msgid "Product name"
+msgstr "Tên sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:13
+msgid "Product price"
+msgstr "Giá sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:433
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2270
+msgid "Product quantity"
+msgstr "Số lượng sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:97
+msgid "Product Title"
+msgstr "Tiểu đề sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:15
+msgid "Product visibility"
+msgstr ""
+"Mức độ hiển thị sản phẩm\n"
+"\n"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:48
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:725
+msgid "Products from Billing"
+msgstr "Sản phẩm khách hàng đó đã mua"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:740
+msgid "Products in the cart"
+msgstr "Sản phẩm trong giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:722
+msgid "Products in the same categories of products in the cart"
+msgstr "Sản phẩm cùng danh mục với sản phẩm trong giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:784
+msgid "Products limit"
+msgstr "Số lượng sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:500
+msgid "Products position on checkout page"
+msgstr "Vị trí tại trang thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:569
+msgid "Products position on checkout page on mobile"
+msgstr "Vị trí tại trang thanh toán trên điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:793
+msgid "Products quantity limit"
+msgstr "Giới hạn số lượng mỗi sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1812
+msgid "Progress bar"
+msgstr "Thanh tiến trình"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:671
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:808
+msgid "Quantity"
+msgstr "Số lượng "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:822
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:825
+msgid "Rating"
+msgstr "Xếp hạng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+msgid "Read more"
+msgstr "Đọc thêm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:707
+msgid "Recently published products"
+msgstr "Sản phẩm được công khai gần đây"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:734
+msgid "Recently purchased products from Billing"
+msgstr "Sản phẩm được khách hàng đó mua gần đây"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:710
+msgid "Recently viewed products"
+msgstr "Sản phẩm đã xem gần đây"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:681
+msgid "Recommended products"
+msgstr "Sản phẩm được gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:474
+msgid "Redirect to another page after clicking 'Place Order' button"
+msgstr "Chuyển hướng tới trang khác sau khi nhấp nút \"Đặt hàng\""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:394
+msgid "Redirect to single product page"
+msgstr "Xem chi tiết sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:405
+msgid ""
+"Redirect to single product page when click to product image or product title"
+msgstr ""
+"Chuyển hướng tới trang chi tiết sản phẩm khi nhấp vào ảnh hoặc tiêu đề sản "
+"phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:224
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:229
+msgid "regular price"
+msgstr "Giá bán thường"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:713
+msgid "Related products of products in the cart"
+msgstr "Sản phẩm tương tự với sản phẩm trong giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:312
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:629
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:505
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:917
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:339
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:204
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:423
+msgid "Remove a product from the upsells list right after being added to cart"
+msgstr ""
+"Loại sản phẩm khỏi danh sách gợi ý nếu sản phẩm này đã được thêm vào giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:411
+msgid "Remove after adding"
+msgstr "Ẩn sản phẩm đã chọn"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:25
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:26
+msgid "Report"
+msgstr "Báo cáo"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:41
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1725
+msgid "Reset time"
+msgstr "Thiết lập lại thời gian"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2265
+msgid "Right"
+msgstr "Bên phải "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2087
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2134
+msgid "Row on Scroll"
+msgstr "Số dòng khi cuộn trang"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:327
+msgid "Rules & Products"
+msgstr "Quy tắc & Sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:352
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:672
+msgid "Saturday"
+msgstr "Thứ bảy"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:756
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2487
+msgid "Save"
+msgstr "Lưu"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2492
+msgid "Save & Check Key"
+msgstr "Lưu & Kiểm tra khóa"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2067
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2114
+msgid "Scroll"
+msgstr "Cuộn trang"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:118
+msgid "Search results only"
+msgstr "Chỉ kết quả tìm kiếm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1718
+msgid "Seconds"
+msgstr "Giây"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:737
+msgid "Selected products"
+msgstr "Chọn các sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:493
+msgid "Set the style to display recommended products"
+msgstr "Thiết lập kiểu hiển thị sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:563
+msgid "Set the style to display recommended products on mobile"
+msgstr "Thiết lập kiểu hiển thị sản phẩm gợi ý trên điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1734
+msgid ""
+"Set time for reappear recommend popup when the Cart is not checkout and "
+"popup is timed out"
+msgstr ""
+"Thiết lập thời gian hiện lại popup sản phẩm gợi ý khi giỏ hàng chưa được "
+"thanh toán và hết thời gian hiện popup"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/admin.php:19
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/admin.php:20
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:112
+msgid "Shop and search results"
+msgstr "Cửa hàng và kết quả tìm kiếm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:115
+msgid "Shop only"
+msgstr "Chỉ cửa hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1267
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:14
+msgid "Show variation"
+msgstr "Hiển thị biến thể"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1459
+msgid "Skip icon"
+msgstr "Biểu tượng bỏ qua"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2064
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2111
+msgid "Slider"
+msgstr "Thanh trượt"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:511
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1060
+msgid "Solid"
+msgstr "Solid"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/order-bump.php:115
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/upsell-funnel.php:230
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Xin lỗi, sản phẩm này không có sẵn. Vui lòng lưa chọn sự kết hợp sản phẩm "
+"khác."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:467
+msgid "Style to display recommended products"
+msgstr "Gợi ý sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:551
+msgid "Style to display recommended products on mobile"
+msgstr "Gợi ý sản phẩm trên điện thoại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:287
+msgid "Suggest page cannot be empty!"
+msgstr "Trang gợi ý không được để trống!"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:334
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:654
+msgid "Sunday"
+msgstr "Chủ nhật"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2149
+msgid "Template"
+msgstr "Mẫu"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2254
+msgid "Text align"
+msgstr "Căn chữ"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1506
+msgid ""
+"The add all to cart button will not work if Product Template of Product list "
+"tab is 'Add to cart with checkbox'"
+msgstr ""
+"Nút thêm tất cả vào giỏ hàng sẽ không hoạt động nếu  mẫu sản phẩm gợi ý là "
+"'Thêm vào giỏ hàng với hộp kiểm'"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:414
+msgid "The amount discounted on recommended product"
+msgstr "Lượng chiết khấu cho sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:779
+msgid "The amount discounted on recommended products"
+msgstr "Lượng chiết khấu cho sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1752
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1779
+msgid "The bar used to visualization the remaining time of recommended popup"
+msgstr ""
+"Thanh được sử dụng để hiển thị thời gian còn lại hiện popup sản phẩm gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1756
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1783
+msgid "The button use to stop countdown and is only go with continue button"
+msgstr ""
+"Nút được sử dụng để dừng đồng hồ đếm ngược, chỉ hoạt động với nút tiếp tục "
+"thanh toán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1551
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1883
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1902
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2314
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2333
+msgid "The cart icon"
+msgstr "Biểu tượng giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1308
+msgid "The discount amount for one product"
+msgstr "Lượng chiết khấu cho một sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1311
+msgid "The discount amount in regular or current price"
+msgstr "Lượng chiết khấu theo giá bán thường hoặc giá hiện tại"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1270
+msgid "The display of title popup, it is customized in the title tab"
+msgstr "Tiêu đề popup, có thể tùy chỉnh trong phần tiêu đề"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:242
+msgid "The first matched rule"
+msgstr "Quy tắc đầu tiên phù hợp"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:798
+msgid "The maximum number of products quantity. Leave blank to not limit this."
+msgstr ""
+"Số lượng tối đa được thêm vào giỏ hàng của mỗi sản phẩm. Để trống nếu không "
+"hạn chế số lượng."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:789
+msgid "The maximum number of recommended products"
+msgstr "Số sản phẩm được gợi ý không được vượt quá giá trị này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/upsell-funnel.php:232
+msgid "The maximum number of {product_name} quantity is {pd_limit_quantity}"
+msgstr "Số lượng tối đa {product_name} là {pd_limit_quantity}"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-cart.php:81
+msgid "The number of these items in the cart is maximum"
+msgstr "Số lượng mặt hàng trong giỏ là tối đa"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:420
+msgid ""
+"The price displayed on order bump will be the difference between the regular "
+"price and the discount (based on fixed amount)"
+msgstr ""
+"Giá hiển thị trên order bump sẽ là giá chênh lệch giữa giá bán thường và "
+"chiết khấu (tính theo số tiền cố định)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:417
+msgid ""
+"The price displayed on order bump will be the difference between the regular "
+"price and the discount (based on percentage)"
+msgstr ""
+"Giá hiển thị trên order bump sẽ là giá chênh lệch giữa giá bán thường và "
+"chiết khấu (tính theo tỷ lệ phần trăm)"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:426
+msgid ""
+"The price displayed on order bump will be the difference between the sale "
+"price and the discount (based on fixed amount). If your product is not on "
+"sale, it will take the regular price."
+msgstr ""
+"Giá hiển thị trên order bump sẽ là giá chênh lệch giữa giá ưu đãi và chiết "
+"khấu (tính theo số tiền cố định). Nếu sản phẩm đang không giảm giá, sẽ lấy "
+"theo giá bán thường."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:423
+msgid ""
+"The price displayed on order bump will be the difference between the sale "
+"price and the discount (based on percentage). If your product is not on sale,"
+" it will take the regular price."
+msgstr ""
+"Giá hiển thị trên order bump sẽ là giá chênh lệch giữa giá ưu đãi và chiết "
+"khấu (tính theo tỷ lệ phần trăm). Nếu sản phẩm đang không giảm giá, sẽ lấy "
+"theo giá bán thường."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:429
+msgid "The price displayed on order bump will the new price."
+msgstr "Giá hiển thị trên order bump sẽ là giá mới."
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1022
+msgid ""
+"The recommended products will not show if content does not include {content}"
+msgstr "Gợi ý sản phẩm sẽ không hiển thị nếu nội dung không bao gồm {content}"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:599
+msgid "The short description of product"
+msgstr "Mô tả ngắn của sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1374
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1393
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1532
+msgid "The skip icon"
+msgstr "Biểu tượng bỏ qua "
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1721
+msgid "The time for countdown"
+msgstr "Thời gian đếm ngược"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1748
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1775
+msgid "The time to continue checkout"
+msgstr "Đơn hàng sẽ tiếp tục thanh toán sau khoảng thời gian này"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:744
+msgid "The type of products will appear"
+msgstr "Loại sản phẩm được hiển thị trong danh sách gợi ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:346
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:666
+msgid "Thursday"
+msgstr "Thứ năm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:357
+msgid "Timer per day"
+msgstr "Thời gian trong ngày"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:539
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:828
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1292
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1368
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1388
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1526
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1546
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1877
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1897
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2308
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2328
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:373
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:59
+msgid "To"
+msgstr "Tới"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:225
+msgid "Total orders"
+msgstr "Tổng đơn hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:105
+msgid "Total Sold"
+msgstr "Tổng lượng bán"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:340
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:660
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:694
+msgid "Type"
+msgstr "Loại sản phẩm"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:716
+msgid "Up-sells of products in the cart"
+msgstr "Up-sells của sản phẩm trong giỏ hàng"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:333
+msgid "Update"
+msgstr "Cập nhật"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:108
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:197
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:227
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:32
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:33
+msgid "Upsell Funnel"
+msgstr "Upsell Funnel"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:519
+msgid "URL of endpoint page"
+msgstr "URL điểm cuối trang"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:639
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:766
+msgid "Variations"
+msgstr "Biến thể"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:76
+msgid "VIEW"
+msgstr "XEM"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:551
+msgid "View More"
+msgstr "Xem thêm"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:343
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:663
+msgid "Wednesday"
+msgstr "Thứ tư"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:316
+msgid "WooCommerce Checkout Upsell Funnel"
+msgstr "WooCommerce Checkout Upsell Funnel"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Checkout Upsell Funnel displays product suggestion and smart "
+"order bump on checkout page with the attractive discounts"
+msgstr ""
+"WooCommerce Checkout Upsell Funnel đưa ra những gợi ý sản phẩm và phiễu bán "
+"hàng thông minh trên trang thanh toán với những ưu đãi giảm giá\n"
+
+#. Name of the plugin
+msgid "WooCommerce Checkout Upsell Funnel Premium"
+msgstr "WooCommerce Checkout Upsell Funnel Premium"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:98
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:80
+msgid "Yes"
+msgstr "Đồng ý"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:545
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:555
+msgid "Yes! I want it!"
+msgstr "Tôi muốn mua sản phẩm này!"

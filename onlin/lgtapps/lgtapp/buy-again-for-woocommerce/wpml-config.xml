@@ -1,0 +1,25 @@
+<wpml-config>
+    <admin-texts>
+        <!-- Frontend My Account Buy Again Table label -->
+        <key name="bya_localization_product_name_label" />
+        <key name="bya_localization_product_price_label" />
+        <key name="bya_localization_product_quantity_label" />
+        <key name="bya_localization_action_label" />
+        <key name="bya_localization_add_to_cart_label" />
+        <key name="bya_localization_buy_again_label" />
+        <key name="bya_localization_buy_again_menu_label" />
+        <key name="bya_localization_search_field_label" />
+        <key name="bya_localization_filter_btn_label" />
+        <key name="bya_localization_filter_by_label" />
+        <key name="bya_localization_search_btn_label" />
+        <key name="bya_localization_order_count_val" />
+        <key name="bya_localization_order_count_label" />
+        <key name="bya_localization_last_purchased_order_id_label" />
+        <!-- Frontend My Account Buy Again Table label -->
+
+        <!-- Product Notice -->
+        <key name="bya_general_buy_again_message" />
+        <!-- Product Notice -->
+
+    </admin-texts>
+</wpml-config>

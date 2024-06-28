@@ -1,0 +1,43 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "VILLAMART",
+  "orientation": "any",
+  
+  "scope": "/",
+  "short_name": "VILLAMART",
+  "start_url": "/",
+  "theme_color": "#1f7e10",
+  "icons": [
+    {
+      "src": "images/32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/300x300.png",
+      "type": "image/png",
+      "sizes": "300x300",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/500x500.png",
+      "type": "image/png",
+      "sizes": "500x500",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ]
+}

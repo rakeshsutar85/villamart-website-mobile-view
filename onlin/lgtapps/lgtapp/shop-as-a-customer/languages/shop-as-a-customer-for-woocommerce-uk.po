@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FME Addons: Shop as a Customer for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-13 09:22+0000\n"
+"PO-Revision-Date: 2023-03-08 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: shop-as-a-customer-for-woocommerce"
+
+#: shop-as-a-customer-for-woocommerce.php:559
+#: shop-as-a-customer-for-woocommerce.php:585
+msgid "Action"
+msgstr "Дія"
+
+#: shop-as-a-customer-for-woocommerce.php:497
+msgid "By Default Order Status During Offline Payment"
+msgstr "Статус замовлення за умовчанням під час офлайн-платежів"
+
+#: shop-as-a-customer-for-woocommerce.php:1147
+msgid "compress to left"
+msgstr "стиснути вліво"
+
+#: shop-as-a-customer-for-woocommerce.php:1120
+#: shop-as-a-customer-for-woocommerce.php:1130
+msgid "compress to right"
+msgstr "стиснути праворуч"
+
+#: shop-as-a-customer-for-woocommerce.php:723
+#: shop-as-a-customer-for-woocommerce.php:753
+msgid "Customer"
+msgstr "Замовник"
+
+#: shop-as-a-customer-for-woocommerce.php:396
+msgid "Customer Logs"
+msgstr "Журнали клієнтів"
+
+#: shop-as-a-customer-for-woocommerce.php:1560
+msgid "Edit Profile"
+msgstr "Редагувати профіль"
+
+#: shop-as-a-customer-for-woocommerce.php:554
+#: shop-as-a-customer-for-woocommerce.php:580
+msgid "Email"
+msgstr "Електронна пошта"
+
+#. Name of the plugin
+msgid "FME Addons: Shop as a Customer for WooCommerce"
+msgstr "Додатки FME: купуйте як клієнт WooCommerce"
+
+#. Author of the plugin
+msgid "fmeaddons"
+msgstr "fmeaddons"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.fmeaddons.com/"
+msgstr "https://www.fmeaddons.com/"
+
+#: shop-as-a-customer-for-woocommerce.php:542
+#: shop-as-a-customer-for-woocommerce.php:568
+#: shop-as-a-customer-for-woocommerce.php:711
+#: shop-as-a-customer-for-woocommerce.php:741
+msgid "ID"
+msgstr "ID"
+
+#: shop-as-a-customer-for-woocommerce.php:717
+#: shop-as-a-customer-for-woocommerce.php:747
+msgid "Logged in At"
+msgstr "Увійшли в систему At"
+
+#: shop-as-a-customer-for-woocommerce.php:733
+#: shop-as-a-customer-for-woocommerce.php:763
+msgid "Message On Whatsapp"
+msgstr "Повідомлення на Whatsapp"
+
+#: shop-as-a-customer-for-woocommerce.php:548
+#: shop-as-a-customer-for-woocommerce.php:574
+msgid "Name"
+msgstr "Ім'я"
+
+#: shop-as-a-customer-for-woocommerce.php:1403
+msgid "next"
+msgstr "наступний"
+
+#: shop-as-a-customer-for-woocommerce.php:1402
+msgid "No Records found"
+msgstr "Записів не знайдено"
+
+#: shop-as-a-customer-for-woocommerce.php:728
+#: shop-as-a-customer-for-woocommerce.php:758
+msgid "Products"
+msgstr "Продукти"
+
+#: shop-as-a-customer-for-woocommerce.php:1565
+msgid "Recent Customer:"
+msgstr "Недавній клієнт:"
+
+#: shop-as-a-customer-for-woocommerce.php:523
+msgid "Save Settings"
+msgstr "Зберегти налаштування"
+
+#: shop-as-a-customer-for-woocommerce.php:453
+msgid "Select Role(s)"
+msgstr "Виберіть роль(и)"
+
+#: shop-as-a-customer-for-woocommerce.php:421
+msgid "Select Tab to Switch as Customer/Guest"
+msgstr "Виберіть Tab, щоб перейти як клієнт/гість"
+
+#: shop-as-a-customer-for-woocommerce.php:402
+msgid "Settings"
+msgstr "Налаштування"
+
+#: shop-as-a-customer-for-woocommerce.php:527
+msgid "Settings saved successfully"
+msgstr "Налаштування успішно збережено"
+
+#: shop-as-a-customer-for-woocommerce.php:1393
+msgid "Shop as Customer"
+msgstr "Купуйте як клієнт"
+
+#: shop-as-a-customer-for-woocommerce.php:527
+msgid "Success!"
+msgstr "Успіх!"
+
+#: shop-as-a-customer-for-woocommerce.php:1555
+msgid "Switch"
+msgstr "Перемикач"
+
+#: shop-as-a-customer-for-woocommerce.php:1145
+msgid "Switch Back "
+msgstr "Назад"
+
+#. Description of the plugin
+msgid ""
+"Switch to any customer profile from administration panel and use WooCommerce "
+"store as customer, Create orders  \tand Edit user profile."
+msgstr ""
+"Перейдіть на будь-який профіль клієнта з панелі адміністрування та "
+"використовуйте магазин WooCommerce як клієнт, створюйте замовлення та "
+"редагуйте профіль користувача."
+
+#: shop-as-a-customer-for-woocommerce.php:1358
+msgid "Switch To Customer"
+msgstr "Переключитися на клієнта"
+
+#: shop-as-a-customer-for-woocommerce.php:1365
+msgid "switch to customer"
+msgstr "переключитися на клієнта"
+
+#: shop-as-a-customer-for-woocommerce.php:390
+msgid "Switch To Customers"
+msgstr "Переключитися на клієнтів"
+
+#: shop-as-a-customer-for-woocommerce.php:1344
+msgid "Switch To Guest"
+msgstr "Перейти до гостя"
+
+#: shop-as-a-customer-for-woocommerce.php:1351
+msgid "switch to Guest"
+msgstr "переключитися на Гість"
+
+#: shop-as-a-customer-for-woocommerce.php:1558
+msgid "View Orders"
+msgstr "Переглянути замовлення"
+
+#: shop-as-a-customer-for-woocommerce.php:1137
+msgid "You are now login as "
+msgstr "Ви ввійшли як"
+
+#: shop-as-a-customer-for-woocommerce.php:376
+msgid "Your settings has been saved!"
+msgstr "Ваші налаштування збережено!"

@@ -1,0 +1,36 @@
+2024-02-29T04:29:44+00:00 CRITICAL Uncaught Error: Call to undefined function bacola_resize() in /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php:16
+Stack trace:
+#0 /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php(571): bacola_product_image()
+#1 /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php(1036): bacola_product_type2()
+#2 /home/villamart.in/public_html/wp-includes/class-wp-hook.php(324): bacola_shop_thumbnail()
+#3 /home/villamart.in/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 /home/villamart.in/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/villamart.in/public_html/lgtapps/themes/villamart/woocommerce/content-product.php(35): do_action()
+#6 /home/villamart.in/public_html/wp-includes/template.php(792): require('/home/villamart...')
+#7 /home/villamart.in/public_html/lgtapps/lgtapp/woocommerce/includes/wc-core-functions.php(284): load_template()
+#8 /home/villamart.in/public_html/lgtapps/themes in /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php on line 16
+
+2024-02-29T04:30:58+00:00 CRITICAL Uncaught Error: Call to undefined function bacola_resize() in /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php:16
+Stack trace:
+#0 /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php(571): bacola_product_image()
+#1 /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php(1036): bacola_product_type2()
+#2 /home/villamart.in/public_html/wp-includes/class-wp-hook.php(324): bacola_shop_thumbnail()
+#3 /home/villamart.in/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 /home/villamart.in/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/villamart.in/public_html/lgtapps/themes/villamart/woocommerce/content-product.php(35): do_action()
+#6 /home/villamart.in/public_html/wp-includes/template.php(792): require('/home/villamart...')
+#7 /home/villamart.in/public_html/lgtapps/lgtapp/woocommerce/includes/wc-core-functions.php(284): load_template()
+#8 /home/villamart.in/public_html/lgtapps/themes in /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php on line 16
+
+2024-02-29T04:31:08+00:00 CRITICAL Uncaught Error: Call to undefined function bacola_resize() in /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php:16
+Stack trace:
+#0 /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php(571): bacola_product_image()
+#1 /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php(1036): bacola_product_type2()
+#2 /home/villamart.in/public_html/wp-includes/class-wp-hook.php(324): bacola_shop_thumbnail()
+#3 /home/villamart.in/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 /home/villamart.in/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/villamart.in/public_html/lgtapps/themes/villamart/woocommerce/content-product.php(35): do_action()
+#6 /home/villamart.in/public_html/wp-includes/template.php(792): require('/home/villamart...')
+#7 /home/villamart.in/public_html/lgtapps/lgtapp/woocommerce/includes/wc-core-functions.php(284): load_template()
+#8 /home/villamart.in/public_html/lgtapps/themes in /home/villamart.in/public_html/lgtapps/themes/villamart/includes/woocommerce.php on line 16
+

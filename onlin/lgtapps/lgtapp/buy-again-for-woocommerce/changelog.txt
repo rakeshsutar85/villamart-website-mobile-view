@@ -1,0 +1,131 @@
+*** Buy Again for WooCommerce ***
+
+2023-06-16 - version 3.9.0
+ * Tweak: Compatible with High-Performance Order Storage[HPOS]
+ * Tweak: Tested with WordPress 6.2.2 & WooCommerce v7.8.0
+ 
+2023-05-16 - version 3.8.0
+ * Tweak: Code improvements.
+ * Tweak: Tested with WooCommerce v7.7.0.
+
+2023-04-05 - version 3.7.0
+ * New: Added separate Buy Again page.
+ * Tweak: Settings Improvements.
+ * Tweak: Tested with WordPress v6.2.0 and WooCommerce v7.5.1.
+
+2023-03-20 - version 3.6.0
+ * Tweak: Improvement made in Quantity field validation on Buy Again Table.
+ * Tweak: Tested upto WooCommerce v7.5.0.
+
+2023-02-07 - version 3.5.0
+ * Tweak: Improvements made in pagination and displaying products in  Buy Again Table.
+ * Tweak: Improvement made displaying buy again product and other  product in the Cart page
+ * Tweak: Improvement made in displaying draft product(currently not  live) in Buy Again table.
+ * Tweak: Tested upto WooCommerce v7.3.0.
+
+2022-12-08 - version 3.4.0
+ * New: Added option to display the Product Stock count in Buy Again Table.
+ * Tweak: Tested upto WordPress v6.1.1.
+
+2022-11-16 - version 3.3.0
+ * Tweak Improvement made in Buy Again menu Translation
+ * Tweak: Tested upto WordPress v6.1 and WooCommerce v7.1.0.
+ * Fix: Error thrown in Buy Again table
+
+2022-10-01 - version 3.2.0
+ * Tweak: Improvements made in displaying variable product in Buy Again table.
+ * Tweak: Improvements made in Buy again templates file.
+ * Tweak: Improvements made in displaying the Buy again product in the cart.
+ * Tweak: Tested up to WordPress v6.0.2 and WooCommerce v6.9.3.
+
+2022-08-13 - version 3.1.0
+ * New: Added Last placed Order number of the product in Buy Again table
+ * Tweak: Tested up to WordPress v6.0.1 and WooCommerce v6.7.0
+
+2022-07-01 - version 3.0.0
+ * New: Added Product Filter option in Buy Again table
+ * New: Added option to hide Quantity Field in Order details page
+ * Tweak: Tested with WooCommerce v6.6.0
+
+2022-06-01 - version 2.9.0
+ * New : Minimum WordPress and WooCommerce version not met error Message
+ * Tweak: Improvement in saving the default values when WooCommerce is not active
+ * Tweak: Tested with WordPress v6.0 & WooCommerce v6.5.1
+ * Fix: Header already sent error message on plugin activation when WooCommerce is inactive
+
+2022-05-12 - version 2.8.0
+ * Tweak: Code improvements
+ * Tweak: Tested with WordPress v5.9.3 & WooCommerce v6.4.1
+
+2022-03-02 - version 2.7.0
+ * New: Added option to display product description in Buy Again Table.
+ * Tweak: Added option to customize the size of the product image in Buy Again Table.
+ * Tweak : Added option to sort products in Buy Again Table
+ * Tweak - Tested upto WordPress v5.9.1 and WooCommerce v6.2.1.
+
+2022-02-01 - version 2.6.0
+ * New: Added option to display order counts in the Buy Again table.
+ * Tweak: Improvements made to sort the products in Buy Again table.
+ * Tweak: Improvements in product quantity field on Buy Again table.
+
+2022-01-01 - version 2.5.0
+ * New: Added shortcode to display Buy Again table
+ * Tweak: Tested upto WordPress v5.8.2 and WooCommerce v6.0.
+ * Fix: Buy Again product Search not working.
+ * Fix: Code improvements made in User Details and product details table.
+ * Fix: Warning error thrown on buy again table.
+
+2021-10-25 - version 2.4.0
+ * Tweak: Added Improvements in displaying buy again products on Buy Again Table
+ * Fix: Add to cart button not working properly in Variable product on Buy Again Table
+
+2021-08-05 - version 2.3.0
+ * Tweak: Improvements made in variable product
+ * Tweak: Added Filter to Display Custom Item meta
+
+2020-12-04 - version 2.2.0
+ * Tweak: Compatible with Booster for woocommerce plugin(Only custom cart module)
+ * Tweak: Improvements made to search and pagination in Buy Again Table
+ * Fix: Variable product variation not display in cart page(when added to the cart using Buy Again table)
+
+2020-11-17 - version 2.1.0
+ * Tweak: Improvements made to Add to cart button on Buy Again table
+ * Fix: Product image not display properly in Buy Again table
+ * Fix: Add to cart and Buy Again buttons not works in Buy Again table when using search option
+
+2020-10-05 - version 2.0.0
+ * Fix: Improvements made in displaying Buy Again button and Add to Cart button in Buy Again Table
+
+2020-09-07 - version 1.9.0
+ * Fix: Buy Again button and Add to cart button not works on Buy Again Table when enabling Product Quantity Column.
+
+2020-09-01 - version 1.8.0
+ * Fix: Add to Cart button not working properly when using "WooCommerce Modal Fly Cart + Ajax add to cart"
+ * Tweak: Option to hide buy again button and add to cart button on the order details and Buy Again Section
+
+2020-08-05 - version 1.7.0
+ * Tweak: Removed Buy Again button in thank you page
+
+2020-05-09 - version 1.6.0
+ * Fix: Incorrectly displayed Buy Now and add to cart button on Order Emails
+
+2020-04-17 - version 1.5.0
+ * Fix: Users Buy again Products are not recorded properly in Purchase History on the admin backend
+ * New: Pagination added in Purchase History on the admin backend
+
+2020-03-06 - version 1.4.0
+ * Tweak: Translation Compatibility with Loco Translate Plugin
+
+2020-02-05 - version 1.3.0
+ * Fix: Custom CSS not working properly
+ * Tweak: Added option to customize My Account page menu slug
+
+2020-01-13 - version 1.2.0
+ * Fix: XML Sitemap error after plugin activation
+
+2020-01-01 - version 1.1.0
+ * New: Added Privacy Policy Content
+ * Tweak: PO File Updated
+
+2019-11-28 - version 1.0.0
+ * Initial Release

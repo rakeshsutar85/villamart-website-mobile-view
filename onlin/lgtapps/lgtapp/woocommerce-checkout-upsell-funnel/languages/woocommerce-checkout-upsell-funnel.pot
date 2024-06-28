@@ -1,0 +1,1430 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Checkout Upsell Funnel Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-04 09:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: woocommerce-checkout-upsell-funnel"
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:849
+msgid ""
+" - The price displayed on recommended products will be  the difference "
+"between the regular price and the discount (based on fixed amount)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:846
+msgid ""
+" - The price displayed on recommended products will be  the difference "
+"between the regular price and the discount (based on percentage)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:855
+msgid ""
+" - The price displayed on recommended products will be the difference "
+"between the sale price and the discount (based on fixed amount). If your "
+"product is not on sale, it will take the regular price."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:852
+msgid ""
+" - The price displayed on recommended products will be the difference "
+"between the sale price and the discount (based on percentage). If your "
+"product is not on sale, it will take the regular price."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+msgid "(Short)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+msgid "...More"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:302
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:612
+msgid "Active"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1503
+msgid "Add all to cart button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:684
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:720
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:880
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:914
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:950
+msgid "Add Conditions(AND)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:684
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:821
+msgid "ADD TO CART"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2156
+msgid "Add to cart with checkbox"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:262
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:352
+msgid "After billing details"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:356
+msgid "After checkout form"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:271
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:355
+msgid "After payment gateways"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:239
+msgid "All matched rules"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:234
+msgid "Application of rules"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:200
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:376
+msgid "Apply coupon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:208
+msgid "Apply coupon to Order Bump products in Cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:388
+msgid "Apply coupon to recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:834
+msgid "ASC"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2462
+msgid "Auto Update Key"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:484
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:562
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:621
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1147
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1199
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1251
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1402
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1560
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1851
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1911
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2161
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2273
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2341
+msgid "Background"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2153
+msgid "Basic template"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:259
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:351
+msgid "Before billing details"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:350
+msgid "Before checkout form"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:265
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:353
+msgid "Before order details"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:268
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:354
+msgid "Before payment gateways"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:701
+msgid "Best selling products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1037
+msgid "Border Color"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:516
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1416
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1574
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1925
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2173
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2285
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2355
+msgid "Border color"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1858
+msgid "Border color 1"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1865
+msgid "Border color 2"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:530
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1077
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1438
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1596
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1947
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2179
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2291
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2375
+msgid "Border radius"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:496
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1044
+msgid "Border style"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:522
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1065
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1427
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1585
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1827
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1936
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2365
+msgid "Border width"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2167
+msgid "Box shadow color"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:647
+msgid ""
+"Button \"More\" will show if a message content length is greater than this "
+"value so that customers can click the button to load full message content. "
+"Leave blank to not limit this."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:658
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:888
+msgid "Cart Conditions"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1618
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2395
+msgid "Cart icon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:20
+msgid "Cart Subtotal( total of products)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:21
+msgid "Cart Total"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2259
+msgid "Center"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:590
+msgid "Check rules from top to bottom and apply the first one found"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:23
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:24
+msgid "Checkout Funnel"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1697
+msgid "Checkout page enable"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:66
+msgid "Choose order status"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:656
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:886
+msgid "Choose the conditions Carts which will display recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:689
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:919
+msgid "Choose the customers who can see the recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:275
+msgid "Choose the position for Order Bump on checkout page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:513
+msgid "Choose the position for recommended products on checkout page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:581
+msgid "Choose the position for recommended products on checkout page on mobile"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:451
+msgid "Choose the product to appear"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:309
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:625
+msgid "Clone"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:568
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:627
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1326
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1409
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1481
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1567
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1641
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1792
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1918
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1992
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2248
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2279
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2348
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2418
+msgid "Color"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:844
+msgid "Conditions of Product"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1163
+msgid "Container"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:589
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1010
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1093
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1114
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1135
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1168
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1188
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1220
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1240
+msgid "Content"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1346
+msgid "Continue button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1663
+msgid "Countdown timer"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:719
+msgid "Cross-sells of products in the cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:235
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:240
+msgid "current price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:331
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2445
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:114
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:201
+msgid "Customer"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:921
+msgid "Customer Conditions"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:691
+msgid "Customer conditions"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:502
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1051
+msgid "Dashed"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:807
+msgid "Date"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:330
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:649
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1731
+msgid "Days"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:837
+msgid "DESC"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:458
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:329
+msgid "Design"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2053
+msgid "Desktop"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1838
+msgid "Diameter"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:387
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:748
+msgid "Discount amount"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1281
+msgid ""
+"Display Countdown timer for watching and buying recommend products by "
+"customers, and it was customized in Countdown timer tab"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:225
+msgid "Display Order Bump for Checkout form on the Sidebar Cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1277
+msgid ""
+"Display the button for continuing checkout and it was customized in Continue "
+"button tab"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1285
+msgid ""
+"Display the button which can add all recommended products to Cart. If the "
+"recommended products are appeared after clicking 'place order' and the "
+"customers click on 'add all to Cart' button, the customers can checkout all "
+"in one time.It is not working if Product Template of Product list tab is "
+"'Add to cart with checkbox. This shortcode was customized in 'Add all to "
+"Cart button' tab"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1274
+msgid ""
+"Display the list of recommended products, this shortcode is only used in "
+"container of pop up and designed in Product list tab and customized in "
+"product list tab"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1713
+msgid "Display time"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2058
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2105
+msgid "Display type"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:458
+msgid "Display Upsell Funnel for Checkout form on the Sidebar Cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:508
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1057
+msgid "Dotted"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:505
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1054
+msgid "Double"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:178
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:362
+msgid "Enable"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1709
+msgid ""
+"Enable it to display countdown timer for buying recommended products on "
+"checkout page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:217
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:450
+msgid "Enable on Sidebar cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1815
+msgid "Enable pause button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:614
+msgid "Enable product image"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:545
+msgid "Enable to display recommended products on mobile"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:527
+msgid ""
+"Endpoints are appended to your checkout page to display recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:429
+msgid "Exclude added products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:35
+msgid "Exclude Billing Countries"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:25
+msgid "Exclude Cart Items"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:27
+msgid "Exclude Cart Items by Categories"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:19
+msgid "Exclude categories"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:31
+msgid "Exclude Coupon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:17
+msgid "Exclude products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:441
+msgid "Exclude products which are already in a customer's cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:39
+msgid "Exclude Shipping Countries"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:24
+msgid "Exclude user"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:22
+msgid "Exclude user role"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:698
+msgid "Featured products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:406
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:773
+#, php-format
+msgid "Fixed(%s) price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:400
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:767
+#, php-format
+msgid "Fixed(%s) regular price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:580
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:639
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1332
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1449
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1488
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1607
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1648
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1799
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1958
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1999
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2238
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2385
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2425
+msgid "Font size"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1215
+msgid "Footer"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:349
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:669
+msgid "Friday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:362
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:54
+msgid "From"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:163
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:325
+msgid "General Settings"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:319
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:636
+msgid "General settings"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2475
+msgid "Get Key"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1016
+msgid "Go to content tab to customize it"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1019
+msgid "Go to Countdown timer tab to customize it"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:117
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:203
+msgid "Guest"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1109
+msgid "Header"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:121
+msgid "Hidden"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1461
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1621
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1971
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2397
+msgid "Icon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:810
+msgid "ID"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:247
+msgid "If choose 'Apply all rules', all matched rule will be applied"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2201
+msgid "Image border color"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2217
+msgid "Image border radius"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2207
+msgid "Image border width"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:34
+msgid "Include Billing Countries"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:24
+msgid "Include Cart Items"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:26
+msgid "Include Cart Items by Categories"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:18
+msgid "Include categories"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:30
+msgid "Include Coupon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:16
+msgid "Include products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:38
+msgid "Include Shipping Countries"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:23
+msgid "Include user"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:21
+msgid "Include user role"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2075
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2122
+msgid "Item per row"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:100
+msgid "Item Sold"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:998
+msgid "Layout"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2092
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2139
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:126
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:158
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:85
+msgid "Leave blank to not limit this"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:67
+msgid "leave blank to not limit this"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2262
+msgid "Left"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:19
+msgid "Limit per day"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:648
+msgid "Max content length"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:118
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:150
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:77
+#, php-format
+msgid "Max(%s)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:813
+msgid "Menu order"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:542
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:592
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1302
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1742
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1770
+msgid "Message"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:105
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:137
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:64
+#, php-format
+msgid "Min(%s)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2100
+msgid "Mobile"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:189
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:533
+msgid "Mobile enable"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:337
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:657
+msgid "Monday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:731
+msgid "Most expensive products from Billing"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:728
+msgid "Most purchased products from Billing"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:324
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:642
+msgid "Name"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:409
+#, php-format
+msgid "New fixed(%s) price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:101
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:77
+msgid "No"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:394
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:499
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:761
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1048
+msgid "None"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/frontend.php:140
+msgid "Not found data"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:472
+msgid "On Checkout page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:473
+msgid "On popup after clicking 'Place Order' button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:704
+msgid "On sale"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:20
+msgid "Only logged in"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:23
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:24
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:111
+msgid "Order Bump"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:155
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:164
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:199
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:229
+msgid "Order Bumps"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:802
+msgid "Order products by"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:45
+msgid "Orders"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:490
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:574
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:633
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1154
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1206
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1258
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2193
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2230
+msgid "Padding"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1872
+msgid "Pause button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1969
+msgid "Pause icon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:403
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:770
+msgid "Percentage(%) price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:397
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:764
+msgid "Percentage(%) regular price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2479
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a>. You "
+"can auto update WooCommerce Checkout Upsell Funnel plugin. See <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">guide</a>"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel.php:32
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Checkout Upsell "
+"Funnel."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/order-bump.php:116
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/upsell-funnel.php:231
+msgid ""
+"Please select some product options before adding {product_name} to your cart."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel.php:29
+msgid ""
+"Please update PHP version at least 7.0 to use WooCommerce Checkout Upsell "
+"Funnel."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:816
+msgid "Popularity"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:254
+msgid "Position on checkout page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:819
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:661
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:798
+msgid "Price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:439
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2146
+msgid "Product"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2301
+msgid "Product 'Add To Cart' button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2302
+msgid "Product checkbox button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2227
+msgid "Product details"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2190
+msgid "Product image"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2014
+msgid "Product list"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:547
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:596
+msgid "Product name"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:13
+msgid "Product price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:433
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2270
+msgid "Product quantity"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:97
+msgid "Product Title"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:15
+msgid "Product visibility"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:48
+msgid "Products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:725
+msgid "Products from Billing"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:740
+msgid "Products in the cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:722
+msgid "Products in the same categories of products in the cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:784
+msgid "Products limit"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:500
+msgid "Products position on checkout page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:569
+msgid "Products position on checkout page on mobile"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:793
+msgid "Products quantity limit"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1812
+msgid "Progress bar"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:671
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:808
+msgid "Quantity"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:822
+msgid "Random"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:825
+msgid "Rating"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/ob-shortcode.php:157
+msgid "Read more"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:707
+msgid "Recently published products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:734
+msgid "Recently purchased products from Billing"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:710
+msgid "Recently viewed products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:681
+msgid "Recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:474
+msgid "Redirect to another page after clicking 'Place Order' button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:394
+msgid "Redirect to single product page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:405
+msgid ""
+"Redirect to single product page when click to product image or product title"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:224
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:229
+msgid "regular price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:713
+msgid "Related products of products in the cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:312
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:629
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:505
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:917
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-cart-rule.php:339
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:204
+msgid "Remove"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:423
+msgid "Remove a product from the upsells list right after being added to cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:411
+msgid "Remove after adding"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:25
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:26
+msgid "Report"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:41
+msgid "Reports"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1725
+msgid "Reset time"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2265
+msgid "Right"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2087
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2134
+msgid "Row on Scroll"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:327
+msgid "Rules & Products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:352
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:672
+msgid "Saturday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:756
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2487
+msgid "Save"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2492
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2067
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2114
+msgid "Scroll"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:118
+msgid "Search results only"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1718
+msgid "Seconds"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:737
+msgid "Selected products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:493
+msgid "Set the style to display recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:563
+msgid "Set the style to display recommended products on mobile"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1734
+msgid ""
+"Set time for reappear recommend popup when the Cart is not checkout and "
+"popup is timed out"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/admin.php:19
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/admin.php:20
+msgid "Settings"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:112
+msgid "Shop and search results"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:115
+msgid "Shop only"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1267
+msgid "Shortcode"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:14
+msgid "Show variation"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1459
+msgid "Skip icon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2064
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2111
+msgid "Slider"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:511
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1060
+msgid "Solid"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/order-bump.php:115
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/upsell-funnel.php:230
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:467
+msgid "Style to display recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:551
+msgid "Style to display recommended products on mobile"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:287
+msgid "Suggest page cannot be empty!"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:334
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:654
+msgid "Sunday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2149
+msgid "Template"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2254
+msgid "Text align"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1506
+msgid ""
+"The add all to cart button will not work if Product Template of Product list "
+"tab is 'Add to cart with checkbox'"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:414
+msgid "The amount discounted on recommended product"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:779
+msgid "The amount discounted on recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1752
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1779
+msgid "The bar used to visualization the remaining time of recommended popup"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1756
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1783
+msgid "The button use to stop countdown and is only go with continue button"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1551
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1883
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1902
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2314
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2333
+msgid "The cart icon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1308
+msgid "The discount amount for one product"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1311
+msgid "The discount amount in regular or current price"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1270
+msgid "The display of title popup, it is customized in the title tab"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:242
+msgid "The first matched rule"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:798
+msgid "The maximum number of products quantity. Leave blank to not limit this."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:789
+msgid "The maximum number of recommended products"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/upsell-funnel.php:232
+msgid "The maximum number of {product_name} quantity is {pd_limit_quantity}"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-cart.php:81
+msgid "The number of these items in the cart is maximum"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:420
+msgid ""
+"The price displayed on order bump will be the difference between the regular "
+"price and the discount (based on fixed amount)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:417
+msgid ""
+"The price displayed on order bump will be the difference between the regular "
+"price and the discount (based on percentage)"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:426
+msgid ""
+"The price displayed on order bump will be the difference between the sale "
+"price and the discount (based on fixed amount). If your product is not on "
+"sale, it will take the regular price."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:423
+msgid ""
+"The price displayed on order bump will be the difference between the sale "
+"price and the discount (based on percentage). If your product is not on sale,"
+" it will take the regular price."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:429
+msgid "The price displayed on order bump will the new price."
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1022
+msgid ""
+"The recommended products will not show if content does not include {content}"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:599
+msgid "The short description of product"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1374
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1393
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1532
+msgid "The skip icon"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1721
+msgid "The time for countdown"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1748
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1775
+msgid "The time to continue checkout"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:744
+msgid "The type of products will appear"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:346
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:666
+msgid "Thursday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:357
+msgid "Timer per day"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:539
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:828
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1292
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1368
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1388
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1526
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1546
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1877
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:1897
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2308
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:2328
+msgid "Title"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:373
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:59
+msgid "To"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:225
+msgid "Total orders"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:105
+msgid "Total Sold"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:340
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:660
+msgid "Tuesday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:694
+msgid "Type"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:716
+msgid "Up-sells of products in the cart"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:333
+msgid "Update"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:108
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:197
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:227
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:32
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:33
+msgid "Upsell Funnel"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:519
+msgid "URL of endpoint page"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:639
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:766
+msgid "Variations"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/report.php:76
+msgid "VIEW"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/frontend/us-shortcode.php:551
+msgid "View More"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:343
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:663
+msgid "Wednesday"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/upsell-funnel.php:316
+msgid "WooCommerce Checkout Upsell Funnel"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Checkout Upsell Funnel displays product suggestion and smart "
+"order bump on checkout page with the attractive discounts"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Checkout Upsell Funnel Premium"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-product-rule.php:98
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/templates/admin-user-rule.php:80
+msgid "Yes"
+msgstr ""
+
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:545
+#: D:/git2019/PREMIUM-VERSION/woocommerce-checkout-upsell-funnel/woocommerce-checkout-upsell-funnel/includes/admin/order-bump.php:555
+msgid "Yes! I want it!"
+msgstr ""
