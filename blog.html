@@ -91,7 +91,46 @@
                         					<li><a href="contact.html">CONTACT</a></li> -->
 				</ul>
 			</div>
-			<i class="fa fa-bars" onclick="showMenu()"></i>
+			<!-- <i class="fa fa-bars" onclick="showMenu()"></i> -->
+
+			<div class="menu-icon" id="menu-icon" >
+                <i class="fa-solid fa-bars" style="color: #ffffff; font-size: 30px" onclick="showMenu()" ></i>
+             </div>
+
+             
+             <div class="mobile-menu" id="mobile-menu">
+                <ul>
+                    <li>
+                        <div class="menu-close" style="float: right;" >
+                            <i class="fa-solid fa-xmark" style="color: #ffffff; font-size: 30px " onclick="hideMenu()"></i>
+                         </div>
+                    </li>
+                    <li >
+                        <a href="index.html" style="color: #fff; text-decoration: none; font-size: 20px;" >HOME</a>
+                    </li>
+                    <li>
+                        <a  style="color: #fff; text-decoration: none; font-size: 20px;" onclick="showMobileSubMenu()">COMPANY <i class="fa-solid fa-caret-down" style="color: #ffffff;"></i></a>
+                        <ul class="mobile-sub-menu" id="mobile-sub-menu">
+                            <li><a href="about.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >About</a></li>
+                            <li><a href="team.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Team</a></li>
+                            <li><a href="company journey.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Journey</a></li>
+                            <li><a href="gallery.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Media & Gallery</a></li>
+                            <li><a href="blog.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Blog</a></li>
+                        </ul>
+                    </li>
+                    <li style="color: red;" >
+                        <a href="franchise.html" style="color: #fff; text-decoration: none; font-size: 20px;" >FRANCHISE MODEL</a>
+                    </li>
+                    <li style="color: red;" >
+                        <a href="online.html" style="color: #fff; text-decoration: none; font-size: 20px;" >ONLINE ORDER</a>
+                    </li>
+                    <li>
+                        <a href="contact.html" style="color: #fff; text-decoration: none; font-size: 20px;" >CONTACT US</a>
+                    </li>
+                </ul>
+             </div>
+
+
 		</nav>
 	</div>
 	<section class="sub-header-blog">

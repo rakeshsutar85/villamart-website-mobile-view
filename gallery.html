@@ -90,7 +90,47 @@
                         					<li><a href="contact.html">CONTACT</a></li> -->
 				</ul>
 			</div>
-			<i class="fa fa-bars" onclick="showMenu()"></i>
+			<!-- <i class="fa fa-bars" onclick="showMenu()"></i> -->
+
+
+			<div class="menu-icon" id="menu-icon" >
+                <i class="fa-solid fa-bars" style="color: #ffffff; font-size: 30px" onclick="showMenu()" ></i>
+             </div>
+
+             
+             <div class="mobile-menu" id="mobile-menu">
+                <ul>
+                    <li>
+                        <div class="menu-close" style="float: right;" >
+                            <i class="fa-solid fa-xmark" style="color: #ffffff; font-size: 30px " onclick="hideMenu()"></i>
+                         </div>
+                    </li>
+                    <li >
+                        <a href="index.html" style="color: #fff; text-decoration: none; font-size: 20px;" >HOME</a>
+                    </li>
+                    <li>
+                        <a  style="color: #fff; text-decoration: none; font-size: 20px;" onclick="showMobileSubMenu()">COMPANY <i class="fa-solid fa-caret-down" style="color: #ffffff;"></i></a>
+                        <ul class="mobile-sub-menu" id="mobile-sub-menu">
+                            <li><a href="about.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >About</a></li>
+                            <li><a href="team.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Team</a></li>
+                            <li><a href="company journey.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Journey</a></li>
+                            <li><a href="gallery.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Media & Gallery</a></li>
+                            <li><a href="blog.html" style="color: #fff; text-decoration: none; font-size: 20px; margin-left: 30px;" >Blog</a></li>
+                        </ul>
+                    </li>
+                    <li style="color: red;" >
+                        <a href="franchise.html" style="color: #fff; text-decoration: none; font-size: 20px;" >FRANCHISE MODEL</a>
+                    </li>
+                    <li style="color: red;" >
+                        <a href="online.html" style="color: #fff; text-decoration: none; font-size: 20px;" >ONLINE ORDER</a>
+                    </li>
+                    <li>
+                        <a href="contact.html" style="color: #fff; text-decoration: none; font-size: 20px;" >CONTACT US</a>
+                    </li>
+                </ul>
+             </div>
+
+
 		</nav>
 	</div>
 	<section class="sub-header_media-and-gallery">
@@ -126,7 +166,7 @@
 
 	<!-- ------------------Gallery Start---------------- -->
 
-	<section class="gallery">
+	<!-- <section class="gallery">
 		<div class="gallery-img">
 			<p>
 				<img src="images/media/media1.jpg">
@@ -150,7 +190,300 @@
 			</p>
 		</div>
 
-	</section>
+	</section> -->
+
+
+
+	<section>
+		<style>
+		  .gallery {
+			margin: auto;
+			max-width: 1200px;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 20px;
+			padding: 10px;
+		  }
+  
+		  .gallery-item {
+			flex: 1 1 calc(33% - 20px);
+			overflow: hidden;
+			cursor: pointer;
+			transition: transform 0.3s;
+			border-radius: 10px;
+		  }
+  
+		  .gallery-item img {
+			width: 100%;
+			height: auto;
+			display: block;
+			object-fit: cover;
+			opacity: 0.6;
+		  }
+  
+		  .gallery-item:hover {
+			transform: scale(1.02);
+		  }
+  
+		  .gallery-item:hover img {
+			opacity: 1;
+		  }
+  
+		  .modal {
+			display: none;
+			position: fixed;
+			z-index: 1000;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			overflow: auto;
+			background-color: rgba(0, 0, 0, 0.8);
+		  }
+  
+		  .modal-content {
+			display: flex;
+			margin: 10% auto;
+			padding: 20px;
+			background: #fff;
+			max-width: 70%;
+			box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+			border-radius: 10px;
+		  }
+  
+		  .modal-left img {
+			max-width: 100%;
+			height: auto;
+			float: left;
+			border-radius: 10px;
+		  }
+  
+		  .modal-right {
+			margin-left: 20px;
+			padding: 0 2em;
+			width: 40%;
+		  }
+  
+		  .modal-right p {
+			margin: 0;
+		  }
+  
+		  .close {
+			position: absolute;
+			top: 15px;
+			right: 30px;
+			font-size: 40px;
+			font-weight: bold;
+			color: white;
+			cursor: pointer;
+		  }
+  
+		  .nav-btn {
+			background-color: #014017;
+			color: #fff;
+			border: none;
+			padding: 10px 20px;
+			margin-top: 20px;
+			cursor: pointer;
+			border-radius: 5px;
+		  }
+  
+		  .nav-btn:hover {
+			background-color: orange;
+		  }
+  
+		  @media (max-width: 768px) {
+			.gallery-item {
+			  flex: 1 1 calc(50% - 20px);
+			}
+  
+			.modal-content {
+			  flex-direction: column;
+			}
+  
+			.modal-right {
+			  margin-left: 0;
+			  margin-top: 20px;
+			  width: 80%;
+			  padding: 0;
+			}
+  
+			.nav-btn {
+			  margin-top: 10px;
+			}
+		  }
+  
+		  @media (max-width: 480px) {
+			.gallery-item {
+			  flex: 1 1 100%;
+			}
+		  }
+		</style>
+  
+		<div class="gallery">
+		  <div class="gallery-item" onclick="openModal(0)">
+			<img src="images/media/media1.jpg" alt="Venice Italie" />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(1)">
+			<img src="images/media/media2.jpg" alt="Venice Italie" />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(2)">
+			<img src="images/media/media1.jpg" alt="France" />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(3)">
+			<img src="images/media/media2.jpg" alt="Street View" />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(4)">
+			<img src="images/media/media1.jpg" alt="Provence" />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(5)">
+			<img src="images/media/media2.jpg" alt="Harbor by night " />
+		  </div>
+  
+		  <div class="gallery-item" onclick="openModal(6)">
+			<img src="images/media/media1.jpg" alt="Paris at night " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(7)">
+			<img src="images/media/media2.jpg" alt="Sunflowers " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(8)">
+			<img src="images/media/media1.jpg" alt="Amsterdam " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(9)">
+			<img src="images/media/media2.jpg" alt="Cliff coast " />
+		  </div>
+  
+		  <div class="gallery-item" onclick="openModal(10)">
+			<img src="images/media/media1.jpg" alt="Sunrise " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(11)">
+			<img src="images/media/media2.jpg" alt="Image " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(12)">
+			<img src="images/media/media1.jpg" alt="Sea at night " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(13)">
+			<img src="images/media/media2.jpg" alt="Venice Italie " />
+		  </div>
+		  <div class="gallery-item" onclick="openModal(14)">
+			<img src="images/media/media1.jpg" alt="Image " />
+		  </div>
+		</div>
+  
+		<div id="modal" class="modal">
+		  <span class="close" onclick="closeModal()">&times;</span>
+		  <div class="modal-content">
+			<div class="modal-left">
+			  <img id="modal-img" src="" alt="Modal Image" />
+			</div>
+			<div class="modal-right">
+			  <p id="modal-text"></p>
+			  <button class="nav-btn" onclick="prevImage()">&#9664;</button>
+			  <button class="nav-btn" onclick="nextImage()">&#9654;</button>
+			</div>
+		  </div>
+		</div>
+  
+		<script>
+		  const images = [
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: 'images/media/media1.jpg',
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media2.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			{
+			  src: "images/media/media1.jpg",
+			  text: "Lorem ipsum dolor sit amet elit.",
+			},
+			// Voeg hier meer afbeeldingen en beschrijvingen toe als nodig
+		  ];
+		  let currentIndex = 0;
+  
+		  function openModal(index) {
+			currentIndex = index;
+			document.getElementById("modal-img").src = images[index].src;
+			document.getElementById("modal-text").innerText = images[index].text;
+			document.getElementById("modal").style.display = "block";
+		  }
+  
+		  function closeModal() {
+			document.getElementById("modal").style.display = "none";
+		  }
+  
+		  function prevImage() {
+			currentIndex =
+			  currentIndex > 0 ? currentIndex - 1 : images.length - 1;
+			updateModal();
+		  }
+  
+		  function nextImage() {
+			currentIndex =
+			  currentIndex < images.length - 1 ? currentIndex + 1 : 0;
+			updateModal();
+		  }
+  
+		  function updateModal() {
+			document.getElementById("modal-img").src = images[currentIndex].src;
+			document.getElementById("modal-text").innerText =
+			  images[currentIndex].text;
+		  }
+		</script>
+	  </section>
+
+
+
 
 
 	<!-- -----------------------Gallery End------------------ -->
