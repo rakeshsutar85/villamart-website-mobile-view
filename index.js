@@ -1,4 +1,13 @@
 
+function showMobileSubMenu() {
+    const mmv = document.getElementById("mobile-sub-menu");
+    if (mmv.style.display === "block") {
+        mmv.style.display = "none";
+    }else {
+        mmv.style.display = "block";
+    }
+}
+
 function showMenu() {
     const mmv = document.getElementById("mobile-menu");
     mmv.style.display = "block";

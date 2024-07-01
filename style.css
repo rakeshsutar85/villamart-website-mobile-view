@@ -68,26 +68,29 @@
 
 @media (max-width:500px) {
   #popup-overlay {
-    display: none;
-    position: absolute;
+    display: flex;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     background-color: transparent;
     z-index: 9999;
+
   }
   #popup-content {
-    display: none;
+    display: block;
     position: absolute;
-    top: 30%;
-    left: 38%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     color: #fff;
   }
+  .video-close{
+    margin-right: -20px;
+  }
   #video-container {
-    display: none;
+    display: block;
     width: 100%;
     /* Adjust the size as needed */
     margin: 0 auto;
@@ -109,7 +112,7 @@
   /* background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/hero-image.jpeg); */
   background-image: linear-gradient(transparent, transparent), url(images/hero-image.png);
   background-position: center;
-  background-size: cover;
+  background-size:cover;
   position: relative;
 }
 .nav-icon {
@@ -307,7 +310,15 @@ nav .fa {
   display: none;
 }
 
+.mobile-sub-menu{
+  display: none;
+}
+
 @media(max-width:500px) {
+
+  .mobile-sub-menu{
+    display: none;
+  }
 
 .nav-links{
   display: none;
@@ -323,12 +334,12 @@ nav .fa {
 }
 
 .header{
-  min-width: 10vh;
+  min-height: 20vh;
 }
 
 .mobile-menu{
   display: none;
-  height: 200px;
+  height: 320px;
   position:absolute;
   background-color: #014017;
   color: #fff;
@@ -343,6 +354,18 @@ nav .fa {
   padding: 15px;
 }
 
+
+}
+
+@media screen and (min-width: 501px) and (max-width: 1024px) { 
+
+  .header{
+    min-height: 30vh;
+  }
+
+  .dropdown-content{
+    margin-left: -400%;
+  }
 
 }
 
@@ -381,6 +404,24 @@ nav .fa {
   margin-top: 16px;
   margin-bottom: 15px;
   text-align: left;
+}
+
+.fb-mobile-integration{
+  display: none;
+}
+
+
+@media(max-width:500px) {
+  .fb-integration{
+    display: none;
+  }
+  .fb-mobile-integration{
+    display: block;
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1024px) {
+
 }
 
 /* About End*/
@@ -444,6 +485,26 @@ h1 {
   }
 }
 
+@media(max-width:500px) {
+  .supported-by {
+    padding-top: 350px;
+  }
+
+  .flex img{
+    width: 50%;
+  }
+}
+
+
+@media screen and (min-width: 501px) and (max-width: 1024px) {
+  .supported-by {
+    padding-top: 250px;
+  }
+
+  .flex img{
+    width: 30%;
+  }
+}
 
 
 /* Supported By End */
@@ -487,6 +548,28 @@ h1 {
   text-align: left;
 }
 
+.award-col-desktop-view{
+  display: block;
+}
+
+.award-col-mobile-view{
+  display: none;
+}
+
+@media(max-width:500px) {
+  .award-col-desktop-view{
+    display: none;
+  }
+
+  .award-col-mobile-view{
+    display: block;
+  }
+  .award-col {
+    padding: 0px;
+  }
+}
+
+
 /* Award End*/
 
 
@@ -504,7 +587,6 @@ h1 {
 
   flex-basis: 31%;
   border-radius: 10px;
-
   text-align: center;
   color: black;
   margin-top: 20px;
@@ -516,8 +598,33 @@ h1 {
   text-align: center;
 }
 
+.achievement-col h5 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
 .achievement-row {
   background-color: #e6e9e5;
+}
+
+.achievment-desktop-view{
+  display: block;
+}
+
+.achievment-mobile-view{
+  display: none;
+}
+
+
+@media(max-width:500px) {
+  .achievment-desktop-view{
+    display: none;
+  }
+
+  .achievment-mobile-view{
+    display: block;
+  }
 }
 
 /* Achievement End */
@@ -678,19 +785,26 @@ ul {
   background-color: #ffffff;
 }
 
+
+@media(max-width: 501px) {
+  .footer-col {
+    width: 16%;
+  }
+}
+
 /*responsive*/
-@media(max-width: 767px) {
+/* @media(max-width: 767px) {
   .footer-col {
     width: 50%;
     margin-bottom: 30px;
   }
-}
+} */
 
-@media(max-width: 574px) {
+/* @media(max-width: 574px) {
   .footer-col {
     width: 100%;
   }
-}
+} */
 
 /* Footer End */
 
